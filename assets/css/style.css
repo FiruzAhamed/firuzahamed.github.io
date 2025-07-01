@@ -1,3 +1,7 @@
+body {
+  margin: 1in; /* Sets a 1-inch margin on all sides */
+}
+
 .sidebar {
   width: 200px;
   float: left;
