@@ -10,7 +10,7 @@ permalink: /
 ## Expert in AI Applications in Power System Optimization, Energy Management, and Renewable Integration
 
 <div class="sidebar">
-  <img src="/assets/images/profile.jpg" alt="Profile Picture" class="profile-img">
+  <img src="/image/Untitled design.png" alt="Profile Picture" class="profile-img">
   <h3>Short biography for the left-hand sidebar</h3>
   <p>Post Doctoral Researcher focused on advancing energy system models for net-zero emissions.</p>
   <ul class="sidebar-links">
