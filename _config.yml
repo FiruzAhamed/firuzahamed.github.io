@@ -1,18 +1,5 @@
-name: Build and deploy Jekyll site
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-ruby@v1
-        with:
-          ruby-version: '2.7'
-      - run: gem install jekyll bundler
-      - run: bundle install
-      - run: jekyll build
+theme: jekyll-theme-cayman
+title: Firuz Ahamed Nahid
+description: Post Doctoral Researcher | Net Zero Energy System Modeller
+url: https://firuzahamed.github.io
+baseurl: ""
