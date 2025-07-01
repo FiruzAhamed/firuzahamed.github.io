@@ -1,5 +1,18 @@
-theme: jekyll-theme-cayman
+name: Build and deploy Jekyll site
 
-git add _config.yml
-git commit -m "jekyll-theme-cayman"
-git push
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+      - run: gem install jekyll bundler
+      - run: bundle install
+      - run: jekyll build
