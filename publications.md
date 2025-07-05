@@ -3,6 +3,18 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
+<!-- TOP NAVIGATION BAR -->
+<nav class="top-nav">
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about/">About Me</a></li>
+    <li><a href="/experience/">Experience</a></li>
+    <li><a href="/publications/">Publications</a></li>
+    <li><a href="/teaching/">Teaching</a></li>
+    <li><a href="/milestones/">Key Milestones</a></li>
+  </ul>
+</nav>
+
 
 <h1>Publications</h1>
 
@@ -28,7 +40,7 @@ permalink: /publications/
 
 
 
-<h2>Conference Proceedings</h2>
+<h2 style="margin-left: 1in;">Journals:</h2>
 
 <p><strong>Nahid, F.A.</strong>, J. Roy, A. Barua and W. Ongsakul (2024). "PyPSA-BD: An Open-Source Model for Planning Sustainable Power Sector for Bangladesh," 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE), Pattaya City, Thailand, pp. 1-7. <a href="https://doi.org/10.1109/ICUE63019.2024.10795639" target="_blank">https://doi.org/10.1109/ICUE63019.2024.10795639</a></p>
 
