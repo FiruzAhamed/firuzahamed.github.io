@@ -4,11 +4,6 @@ title: Firuz Ahamed Nahid
 permalink: /
 ---
 
-## Firuz Ahamed Nahid
-
-## Post Doctoral Researcher | Net Zero Energy System Modeller
-## Expert in AI Applications in Power System Optimization, Energy Management, and Renewable Integration
-
 <div class="sidebar">
   <img src="/image/Untitled design.png" alt="Profile Picture" class="profile-img">
 
