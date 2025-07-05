@@ -19,7 +19,6 @@ permalink: /
 <!-- SIDEBAR -->
 <div class="sidebar">
   <img src="/image/Untitled design.png" alt="Profile Picture" class="profile-img">
-
   <ul class="sidebar-links">
     <li><a href="https://www.ait.ac.th" target="_blank"><i class="fas fa-university"></i> Asian Institute of Technology</a></li>
     <li><a href="https://eee.iubat.edu/faculty/" target="_blank"><i class="fas fa-university"></i> IUBAT University</a></li>
