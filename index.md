@@ -8,16 +8,15 @@ permalink: /
   <img src="/image/Untitled design.png" alt="Profile Picture" class="profile-img">
 
   <ul class="sidebar-links">
-    <li><i class="fas fa-university"></i> Asian Institute of Technology</li>
-    <li><i class="fas fa-university"></i> IUBAT University</li>
-    <li><i class="fas fa-envelope"></i> Email</li>
-    <li><i class="fab fa-google"></i> Google Scholar</li>
-    <li><i class="fab fa-researchgate"></i> ResearchGate</li>
-    <li><i class="fab fa-orcid"></i> ORCID</li>
-    <li><i class="fab fa-github"></i> GitHub</li>
-
-
+  <li><a href="https://www.ait.ac.th" target="_blank"><i class="fas fa-university"></i> Asian Institute of Technology</a></li>
+  <li><a href="https://www.iubat.edu" target="_blank"><i class="fas fa-university"></i> IUBAT University</a></li>
+  <li><a href="mailto:fanahid@iubat.edu" target="_blank"><i class="fas fa-envelope"></i> Email</a></li>
+  <li><a href="https://scholar.google.com" target="_blank"><i class="fab fa-google"></i> Google Scholar</a></li>
+  <li><a href="https://www.researchgate.net" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a></li>
+  <li><a href="https://orcid.org" target="_blank"><i class="fab fa-orcid"></i> ORCID</a></li>
+  <li><a href="https://github.com" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
   </ul>
+  
 </div>
 
 <div class="main-content">
