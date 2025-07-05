@@ -20,7 +20,7 @@ permalink: /publications/
 
 <div class="main-content">
 
-<h2>Journals:</h2>
+<h2>Journals Article:</h2>
 
 <p><strong>Nahid, F.A.</strong>, & Roy, J. (2025). PyPSA-BD: A customized model to explore decarbonized energy transition for developing country. <em>Renewable Energy Focus</em>, 100655. <a href="https://doi.org/10.1016/j.ref.2024.100655" target="_blank">https://doi.org/10.1016/j.ref.2024.100655</a></p>
 
@@ -40,7 +40,7 @@ permalink: /publications/
 
 
 
-<h2 style="margin-left: 1in;">Journals:</h2>
+<h2>Conference Paper:</h2>
 
 <p><strong>Nahid, F.A.</strong>, J. Roy, A. Barua and W. Ongsakul (2024). "PyPSA-BD: An Open-Source Model for Planning Sustainable Power Sector for Bangladesh," 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE), Pattaya City, Thailand, pp. 1-7. <a href="https://doi.org/10.1109/ICUE63019.2024.10795639" target="_blank">https://doi.org/10.1109/ICUE63019.2024.10795639</a></p>
 
