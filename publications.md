@@ -8,6 +8,10 @@ permalink: /publications/
 
 <h2>Journals:</h2>
 
+<p><strong>Nahid, F.A.</strong>, & Roy, J. (2025). PyPSA-BD: A customized model to explore decarbonized energy transition for developing country. <em>Renewable Energy Focus</em>, 100655. <a href="https://doi.org/10.1016/j.ref.2024.100655" target="_blank">https://doi.org/10.1016/j.ref.2024.100655</a></p>
+
+<p><strong>Nahid, F.A.</strong>, Ongsakul, W., Singh, J.G. et al. (2024). Short-term customer-centric electric load forecasting for low carbon microgrids using a hybrid model. <em>Energy Systems</em>. <a href="https://doi.org/10.1007/s12667-024-00704-5" target="_blank">https://doi.org/10.1007/s12667-024-00704-5</a></p>
+
 <p><strong>Nahid, F.A.</strong>, Ongsakul, W., Manjiparambil, N.M., Singh, J.G., Roy, J. (2023). Mode decomposition-based short-term multi-step hybrid solar forecasting model for microgrid applications. <em>Electrical Engineering</em>. <a href="https://doi.org/10.1007/s00202-023-02138-1" target="_blank">https://doi.org/10.1007/s00202-023-02138-1</a></p>
 
 <p><strong>Nahid, F. A.</strong>, Ongsakul, W., & Manjiparambil, N. M. (2023). Short-term multi-step wind speed forecasting for carbon neutral microgrid by a decomposition-based hybrid model. <em>Energy for Sustainable Development</em>, 73, 87–100. <a href="https://doi.org/10.1016/j.esd.2023.01.016" target="_blank">https://doi.org/10.1016/j.esd.2023.01.016</a></p>
