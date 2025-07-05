@@ -3,9 +3,10 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-<div class="main-content">
-  
+
 <h1>Publications</h1>
+
+<div class="main-content">
 
 <h2>Journals:</h2>
 
