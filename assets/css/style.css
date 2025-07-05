@@ -38,3 +38,35 @@ ul {
   list-style-type: disc;
   padding-left: 20px;
 }
+
+
+/* Top Navigation Menu Styles */
+.top-nav {
+  position: relative;
+  margin-left: 310px; /* Adjust if sidebar width changes */
+  background-color: #f8f9fa;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.top-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+.top-nav li {
+  display: inline;
+}
+
+.top-nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+}
+
+.top-nav a:hover {
+  color: #007acc;
+}
