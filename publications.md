@@ -3,7 +3,8 @@ layout: default
 title: Publications
 permalink: /publications/
 ---
-
+<div class="main-content">
+  
 <h1>Publications</h1>
 
 <h2>Journals:</h2>
@@ -23,3 +24,5 @@ permalink: /publications/
 <p>Akter, K., <strong>Nahid, F. A.</strong>, & Islam, N. (2019). Open Loop Analysis of a High-Performance Input Switched Single Phase AC-DC Boost Converter. <em>Journal of Electrical and Electronics Engineering</em>, 6(7), 6–11. <a href="https://doi.org/10.14445/23488379/IJEEE-V6I7P102" target="_blank">https://doi.org/10.14445/23488379/IJEEE-V6I7P102</a></p>
 
 <p>Alam, M. J., <strong>Nahid, F. A.</strong>, & Islam, M. T. (2019). Design of a Broad Band–Stop Filter with Metamaterial as Defective Ground System. <em>IUBAT Review</em>, 2(1), 41–48. <a href="https://iubat.edu/journal" target="_blank">https://iubat.edu/journal</a></p>
+
+<div>
