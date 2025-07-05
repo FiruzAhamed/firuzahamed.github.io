@@ -33,7 +33,7 @@ permalink: /
   <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ <h1> 
   <h1> May the peace, mercy, and blessings of Allah be with you </h1>
   <h2> Welcome to my site! </h2>
-  </div>
+</div>
     
 <div class="main-content">
   <p>My research area is developing advanced energy system models to support the transition toward net-zero emissions, with a strong focus on:</p>
