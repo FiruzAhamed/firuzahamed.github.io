@@ -16,8 +16,8 @@ permalink: /
   </ul>
 </nav>
 
-<div class="container">
-    <!-- SIDEBAR -->
+
+  <!-- SIDEBAR -->
   <div class="sidebar">
     <img src="/image/Untitled design.png" alt="Profile Picture" class="profile-img">
     <ul class="sidebar-links">
@@ -27,7 +27,7 @@ permalink: /
       <li><a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a></li>
       <li><a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
     </ul>
-  </div>
+</div>
   
   <!-- MAIN CONTENT -->
   <div class="main-content" style="text-align: center;">
@@ -46,6 +46,6 @@ permalink: /
       <li>Sustainable and decarbonized power systems</li>
     </ul>
   </div>
-</div>
+
 
   
