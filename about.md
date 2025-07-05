@@ -4,6 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
+<!-- TOP NAVIGATION BAR -->
+<nav class="top-nav">
+  <ul>
+    <li><a href="/about/">About Me</a></li>
+    <li><a href="/experience/">Experience</a></li>
+    <li><a href="/publications/">Publications</a></li>
+    <li><a href="/teaching/">Teaching</a></li>
+    <li><a href="/milestones/">Key Milestones</a></li>
+  </ul>
+</nav>
+
 <h1>About Me</h1>
 
 <div class="main-content">
