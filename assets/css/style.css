@@ -4,9 +4,9 @@ body {
 
 .sidebar {
   width: 300px;
-  float: left;
   padding: 20px;
   background-color: #f8f9fa;
+  flex-shrink: 0; /* prevents shrinking */
 }
 
 .profile-img {
@@ -26,7 +26,7 @@ body {
 }
 
 .main-content {
-  margin-left: 220px;
+  flex-grow: 1;
   padding: 20px;
 }
 
