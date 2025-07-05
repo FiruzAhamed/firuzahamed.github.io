@@ -4,6 +4,17 @@ title: Firuz Ahamed Nahid
 permalink: /
 ---
 
+<nav class="top-nav">
+  <ul>
+    <li><a href="/about/">About Me</a></li>
+    <li><a href="/experience/">Experience</a></li>
+    <li><a href="/publications/">Publications</a></li>
+    <li><a href="/teaching/">Teaching</a></li>
+    <li><a href="/milestones/">Key Milestones</a></li>
+  </ul>
+</nav>
+
+
 <div class="sidebar">
   <img src="/image/Untitled design.png" alt="Profile Picture" class="profile-img">
 
