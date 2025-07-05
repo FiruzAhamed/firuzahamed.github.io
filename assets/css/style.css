@@ -2,6 +2,12 @@ body {
   margin: 1in 2in 1in 2in; /* Sets a 1-inch margin on all sides */
 }
 
+.container {
+  display: flex;
+  align-items: flex-start;       /* Ensures top alignment */
+  margin: 1in 2in;
+}
+
 .sidebar {
   width: 300px;
   padding: 20px;
