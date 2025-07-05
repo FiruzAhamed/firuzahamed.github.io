@@ -34,7 +34,6 @@ permalink: /
   <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h1> 
   <h1> May the peace, mercy, and blessings of Allah be with you </h1>
   <h2> Welcome to my site! </h2>
-  
 </div>
 
 <div class="main-content">
