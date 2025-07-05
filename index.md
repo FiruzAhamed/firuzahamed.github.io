@@ -30,7 +30,7 @@ permalink: /
 
 <!-- MAIN CONTENT -->
 <div class="main-content" style="text-align: center;">
-  <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ <h1> 
+  <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h1> 
   <h1> May the peace, mercy, and blessings of Allah be with you </h1>
   <h2> Welcome to my site! </h2>
 </div>
