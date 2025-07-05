@@ -1,11 +1,12 @@
 body {
   margin: 1in 3in 1in 3in; /* 1in top, 2in right, 1in bottom, 2in left */
 }
+
 body {
   background-color: lightyellow;
 }
 .sidebar {
-  width: 300px;
+  width: 400px;
   float: left;
   padding: 20px;
   background-color: #f8f9fa;
