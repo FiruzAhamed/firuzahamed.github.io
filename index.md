@@ -9,12 +9,11 @@ permalink: /
 
   <ul class="sidebar-links">
   <li><a href="https://www.ait.ac.th" target="_blank"><i class="fas fa-university"></i> Asian Institute of Technology</a></li>
-  <li><a href="https://www.iubat.edu" target="_blank"><i class="fas fa-university"></i> IUBAT University</a></li>
-  <li><a href="mailto:fanahid@iubat.edu" target="_blank"><i class="fas fa-envelope"></i> Email</a></li>
-  <li><a href="https://scholar.google.com" target="_blank"><i class="fab fa-google"></i> Google Scholar</a></li>
-  <li><a href="https://www.researchgate.net" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a></li>
-  <li><a href="https://orcid.org" target="_blank"><i class="fab fa-orcid"></i> ORCID</a></li>
-  <li><a href="https://github.com" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
+  <li><a href="https://eee.iubat.edu/faculty/" target="_blank"><i class="fas fa-university"></i> IUBAT University</a></li>
+  <li><a href="https://scholar.google.com/citations?user=uqPruO4AAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i> Google Scholar</a></li>
+  <li><a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a></li>
+  <li><a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> ORCID</a></li>
+    
   </ul>
   
 </div>
