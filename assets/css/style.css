@@ -30,6 +30,12 @@ body {
   padding: 20px;
 }
 
+.main-content p {
+  text-align: justify;
+  font-size: 12px;
+  line-height: 1.15;
+}
+
 h2 {
   color: #2c3e50;
 }
