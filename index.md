@@ -29,10 +29,11 @@ permalink: /
 </div>
 
 <!-- MAIN CONTENT -->
-<div class="main-content">
+<div class="main-content" style="text-align: center;">
   <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ (May the peace, mercy, and blessings of Allah be with you) </h1>
   <h2> Welcome to my site! </h2>
-
+  </div>
+<div class="main-content">
   <p>My research area is developing advanced energy system models to support the transition toward net-zero emissions, with a strong focus on:</p>
   <ul>
     <li>Decarbonized Power Sector Modelling</li>
