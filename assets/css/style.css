@@ -1,9 +1,9 @@
 body {
-  margin: 1in; /* Sets a 1-inch margin on all sides */
+  margin: 1in 2in 1 in 2 in; /* Sets a 1-inch margin on all sides */
 }
 
 .sidebar {
-  width: 200px;
+  width: 250px;
   float: left;
   padding: 20px;
   background-color: #f8f9fa;
