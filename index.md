@@ -11,17 +11,17 @@ permalink: /
 
 <div class="sidebar">
   <img src="/image/Untitled design.png" alt="Profile Picture" class="profile-img">
-  <h3>Short biography for the left-hand sidebar</h3>
-  <p>Post Doctoral Researcher focused on advancing energy system models for net-zero emissions.</p>
+
   <ul class="sidebar-links">
-    <li><i class="fas fa-globe"></i> Earth</li>
-    <li><i class="fas fa-university"></i> Red Brick University</li>
+    <li><i class="fas fa-university"></i> Asian Institute of Technology</li>
+    <li><i class="fas fa-university"></i> IUBAT University</li>
     <li><i class="fas fa-envelope"></i> Email</li>
     <li><i class="fab fa-google"></i> Google Scholar</li>
+    <li><i class="fab fa-researchgate"></i> ResearchGate</li>
     <li><i class="fab fa-orcid"></i> ORCID</li>
-    <li><i class="fas fa-book-medical"></i> PubMed</li>
     <li><i class="fab fa-github"></i> GitHub</li>
-    <li><i class="fab fa-bluesky"></i> Bluesky</li>
+
+
   </ul>
 </div>
 
