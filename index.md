@@ -12,14 +12,17 @@ permalink: /
   <li><a href="https://eee.iubat.edu/faculty/" target="_blank"><i class="fas fa-university"></i> IUBAT University</a></li>
   <li><a href="https://scholar.google.com/citations?user=uqPruO4AAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i> Google Scholar</a></li>
   <li><a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a></li>
-  <li><a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> ORCID</a></li>
+  <li><a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
     
   </ul>
   
 </div>
 
 <div class="main-content">
-  <h2>Welcome to my page!</h2>
+  <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h1>
+  <h2> May the peace, mercy, and blessings of Allah be with you </h2>
+  <h2> Welcome to my site! </h2>
+  
   <p>My research area is developing advanced energy system models to support the transition toward net-zero emissions, with a strong focus on:</p>
   <ul>
     <li>Decarbonized Power Sector Modelling</li>
