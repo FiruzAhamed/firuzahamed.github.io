@@ -10,7 +10,7 @@ permalink: /
     <li><a href="/">Dr. Nahid</a></li>
     <li><a href="/publications/">Publications</a></li>
   </ul>
-</nav>
+</nav> 
 
 <!-- TWO COLUMN CONTAINER -->
 <div class="homepage-container">
