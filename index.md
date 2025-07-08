@@ -29,6 +29,8 @@ permalink: /
 
   <!-- RIGHT SECTION: BIO -->
   <div class="right-panel">
+    <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h1>
+    <h1> May the peace, mercy, and blessings of Allah be with you </h1>
     <p>
       Firuz Ahamed Nahid is an energy systems researcher specializing in power sector modeling, renewable integration, and clean energy transition for developing countries. He is currently affiliated with the Asian Institute of Technology (AIT), Thailand, where he conducts interdisciplinary research on modeling and optimization of energy systems.
     </p>
