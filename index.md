@@ -17,7 +17,7 @@ permalink: /
   
   <!-- LEFT SECTION: PHOTO + BUTTONS -->
   <div class="left-panel">
-    <img src="/image/nahid.png" alt="Dr. Nahid" class="profile-pic">
+    <img src="/image/Untitled design.png" alt="Dr. Nahid" class="profile-pic">
     <h2>Dr. Firuz Ahamed Nahid</h2>
     
     <div class="link-buttons">
