@@ -68,6 +68,10 @@ body {
   padding-left: 20px;
 }
 
+.intro-heading h1 {
+  text-align: center;
+}
+
 /* Clean and bold horizontal top nav */
 .top-nav {
   background-color: #ffffff;
