@@ -8,11 +8,7 @@ permalink: /
 <nav class="top-nav">
   <ul>
     <li><a href="/">Dr. Nahid</a></li>
-    <li><a href="/about/">About Me</a></li>
-    <li><a href="/experience/">Experience</a></li>
     <li><a href="/publications/">Publications</a></li>
-    <li><a href="/teaching/">Teaching</a></li>
-    <li><a href="/milestones/">Key Milestones</a></li>
   </ul>
 </nav>
 
