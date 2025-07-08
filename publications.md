@@ -2,7 +2,10 @@
 layout: default
 title: Publications
 permalink: /publications/
+bodyClass: publications
 ---
+
+
 <!-- TOP NAVIGATION BAR -->
 <nav class="top-nav">
   <ul>
@@ -12,9 +15,7 @@ permalink: /publications/
 </nav>
 
 
-<h1>Publications</h1>
-
-<h2>Journals Article:</h2>
+<h1>Journals Article:</h1>
 
 <p><strong>Nahid, F.A.</strong>, & Roy, J. (2025). PyPSA-BD: A customized model to explore decarbonized energy transition for developing country. <em>Renewable Energy Focus</em>, 100655. <a href="https://doi.org/10.1016/j.ref.2024.100655" target="_blank">https://doi.org/10.1016/j.ref.2024.100655</a></p>
 
@@ -34,7 +35,7 @@ permalink: /publications/
 
 
 
-<h2>Conference Paper:</h2>
+<h1>Conference Paper:</h1>
 
 <p><strong>Nahid, F.A.</strong>, J. Roy, A. Barua and W. Ongsakul (2024). "PyPSA-BD: An Open-Source Model for Planning Sustainable Power Sector for Bangladesh," 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE), Pattaya City, Thailand, pp. 1-7. <a href="https://doi.org/10.1109/ICUE63019.2024.10795639" target="_blank">https://doi.org/10.1109/ICUE63019.2024.10795639</a></p>
 
@@ -44,7 +45,7 @@ permalink: /publications/
 
 <p><strong>Akter, K.</strong>, Islam, M. N., <strong>Nahid, F. A.</strong>, & Soheli, S. N. (2021). Comparative Analysis and Exploration of a High Gain Input Current Shaped AC-DC Step-Up Converter with Feedback Controller. 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), pp. 253–258. <a href="https://doi.org/10.1109/ICREST51555.2021.9331180" target="_blank">https://doi.org/10.1109/ICREST51555.2021.9331180</a></p>
 
-<h2>Book Chapters</h2>
+<h1>Book Chapters</h1>
 
 <p><strong>Nahid, F. A.</strong>, Jahangir, M. N., Chowdhury, H. M., & Akter, K. Evaluation and Performance Metrics for Forecasting Renewable Power Generation, Demand, and Electricity Price. In: <em>Forecasting in Smart Grids</em>, pp. 173–218. <a href="https://doi.org/10.1002/9781394249466.ch7" target="_blank">https://doi.org/10.1002/9781394249466.ch7</a></p>
 
@@ -52,3 +53,5 @@ permalink: /publications/
 
 <p><strong>Nahid, F. A.</strong>, Ongsakul, W., Madhu M., N., & Laopaiboon, T. (2020). Hybrid Neural Networks for Renewable Energy Forecasting: Solar and Wind Energy Forecasting Using LSTM and RNN. In Vasant, P., Weber, G., & Punurai, W. (Eds.), <em>Research Advancements in Smart Technology, Optimization, and Renewable Energy</em> (pp. 200–222). IGI Global. <a href="http://doi:10.4018/978-1-7998-3970-5.ch011" target="_blank">http://doi:10.4018/978-1-7998-3970-5.ch011</a></p>
 
+
+<h1>Working Papers</h1>
