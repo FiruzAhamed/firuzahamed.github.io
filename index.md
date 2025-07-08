@@ -4,7 +4,7 @@ title: Dr. Nahid
 permalink: /
 ---
 
-<!-- Minimal Top Navigation -->
+<!-- TOP NAVIGATION -->
 <nav class="top-nav">
   <ul>
     <li><a href="/">Dr. Nahid</a></li>
@@ -12,22 +12,36 @@ permalink: /
   </ul>
 </nav>
 
-<!-- Homepage Content -->
-<div class="home-hero">
-  <img src="/image/Untitled design.png" alt="Dr. Nahid" class="hero-img">
+<!-- TWO COLUMN CONTAINER -->
+<div class="homepage-container">
+  
+  <!-- LEFT SECTION: PHOTO + BUTTONS -->
+  <div class="left-panel">
+    <img src="/image/nahid.png" alt="Dr. Nahid" class="profile-pic">
+    <h2>Dr. Firuz Ahamed Nahid</h2>
+    
+    <div class="link-buttons">
+      <a href="https://ait.ac.th" target="_blank">🌐 AIT</a>
+      <a href="https://iubat.edu" target="_blank">🏫 IUBAT</a>
+      <a href="https://scholar.google.com" target="_blank">🔍 Google Scholar</a>
+      <a href="https://orcid.org" target="_blank">🧬 ORCID</a>
+      <a href="https://linkedin.com" target="_blank">💼 LinkedIn</a>
+    </div>
+  </div>
 
-  <h1>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h1>
-  <h2 class="subtitle">May the peace, mercy, and blessings of Allah be with you</h2>
-  <h3>Welcome to my site!</h3>
-
-  <p class="intro">
-    My research area is developing advanced energy system models to support the transition toward net-zero emissions, with a strong focus on:
-  </p>
-  <ul class="intro-list">
-    <li>Decarbonized Power Sector Modelling</li>
-    <li>Socio-Economic Impact of Power Sector Modelling</li>
-    <li>Demand-Side Interventions in Power Sector Modelling</li>
-    <li>Capacity expansion planning and system reliability</li>
-    <li>Sustainable and decarbonized power systems</li>
-  </ul>
+  <!-- RIGHT SECTION: BIO -->
+  <div class="right-panel">
+    <p>
+      Firuz Ahamed Nahid is an energy systems researcher specializing in power sector modeling, renewable integration, and clean energy transition for developing countries. He is currently affiliated with the Asian Institute of Technology (AIT), Thailand, where he conducts interdisciplinary research on modeling and optimization of energy systems.
+    </p>
+    <p>
+      His work focuses on advanced modeling tools such as PyPSA-BD to inform decarbonization strategies for Bangladesh’s power sector. With a strong background in machine learning, forecasting, and planning, his research spans:
+    </p>
+    <ul>
+      <li>Decarbonized Power Sector Modelling</li>
+      <li>Socio-Economic Impact of Power Sector Modelling</li>
+      <li>Demand-Side Interventions and Load Forecasting</li>
+      <li>Capacity Expansion and Energy Storage Optimization</li>
+    </ul>
+  </div>
 </div>
