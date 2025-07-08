@@ -1,80 +1,69 @@
 body {
-  margin: 1in 2in 1in 2in; /* Sets a 1-inch margin on all sides */
+  margin: 1in; /* Sets a 1-inch margin on all sides */
 }
 
 
-.sidebar {
-  width: 300px;
-  padding: 20px;
-  float: left; 
-  background-color: #f8f9fa;
-
-}
-
-.profile-img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin-bottom: 10px;
-}
-
-.sidebar-links {
-  list-style: none;
-  padding: 0;
-}
-
-.sidebar-links li {
-  margin-bottom: 10px;
-}
-
-.main-content {
-  margin-left: 220px;
-  padding: 20px;
-}
-
-.main-content p {
-  text-align: justify;
-  font-size: 18px;
-  line-height: 1.15;
-}
-
-h2 {
-  color: #2c3e50;
-}
-
-ul {
-  list-style-type: disc;
-  padding-left: 20px;
-}
-
-
-/* Top Navigation Menu Styles */
+/* Top menu for homepage */
 .top-nav {
-  position: relative;
-  margin-left: 310px; /* Adjust if sidebar width changes */
+  display: flex;
+  justify-content: flex-start;
+  padding: 15px 50px;
   background-color: #f8f9fa;
-  padding: 10px 20px;
   border-bottom: 1px solid #ccc;
 }
 
 .top-nav ul {
-  list-style-type: none;
+  display: flex;
+  list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  gap: 20px;
+  gap: 30px;
 }
 
-.top-nav li {
-  display: inline;
-}
-
-.top-nav a {
+.top-nav li a {
   text-decoration: none;
-  color: #333;
-  font-weight: 600;
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
 }
 
-.top-nav a:hover {
+.top-nav li a:hover {
   color: #007acc;
+}
+
+/* Centered Home Content */
+.home-hero {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.hero-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 3px solid #ccc;
+}
+
+.subtitle {
+  font-family: 'Aptos Display', sans-serif;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.intro {
+  font-size: 18px;
+  text-align: justify;
+  margin-top: 30px;
+}
+
+.intro-list {
+  text-align: left;
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 1.6;
 }
