@@ -33,17 +33,29 @@ permalink: /
       <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h1>
       <h2> May the peace, mercy, and blessings of Allah be with you </h2>
     </div>
+  
     <p>
-      Firuz Ahamed Nahid is an energy systems researcher specializing in power sector modeling, renewable integration, and clean energy transition for developing countries. He is currently affiliated with the Asian Institute of Technology (AIT), Thailand, where he conducts interdisciplinary research on modeling and optimization of energy systems.
+      Dr. Firuz Ahamed Nahid is an energy systems researcher and teacher. His research area is focused on power sector decarbonization: modeling of the electricity sector, developing national and regional-scale power sector scenarios, assessing socio-economic impacts of power sector transition, and developing open-source power sector models.
     </p>
-    <p>
-      His work focuses on advanced modeling tools such as PyPSA-BD to inform decarbonization strategies for Bangladesh’s power sector. With a strong background in machine learning, forecasting, and planning, his research spans:
-    </p>
+  
+   <p>
+  His work has been published in peer-reviewed high-impact journals in the energy sector, such as 
+  <a href="https://www.sciencedirect.com/journal/renewable-energy-focus" target="_blank">Renewable Energy Focus</a>, 
+  <a href="https://www.sciencedirect.com/journal/energy-for-sustainable-development" target="_blank">Energy for Sustainable Development</a>, 
+  <a href="https://www.springer.com/journal/12667" target="_blank">Energy Systems</a>, and 
+  <a href="https://www.springer.com/journal/202" target="_blank">Electrical Engineering</a>. 
+  He also contributes and publishes in peer-reviewed 
+  <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE conferences</a>. 
+  He regularly participates in international workshops and conferences.
+</p>
+
+
+  <h1> Research Interest </h1>
     <ul>
-      <li>Decarbonized Power Sector Modelling</li>
-      <li>Socio-Economic Impact of Power Sector Modelling</li>
-      <li>Demand-Side Interventions and Load Forecasting</li>
-      <li>Capacity Expansion and Energy Storage Optimization</li>
+        <li> Energy System Modelling  </li>
+        <li> Renewable Energy Integration  </li>
+        <li> Demand Side Management  </li>
+        <li> AI Application in Power Syste,  </li>
     </ul>
   </div>
 </div>
