@@ -15,17 +15,17 @@ body {
 
 /* Left section */
 .left-panel {
-  width: 200px;
+  width: 300px;
   text-align: center;
 }
 
 .profile-pic {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 15px;
-  border: 3px solid #ccc;
+  border: 2px solid #ccc;
 }
 
 .left-panel h2 {
@@ -59,7 +59,7 @@ body {
 /* Right section */
 .right-panel {
   flex: 1;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.25;
   text-align: justify;
 }
@@ -105,7 +105,7 @@ body {
 .top-nav a {
   text-decoration: none;
   color: #333;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
 }
 
