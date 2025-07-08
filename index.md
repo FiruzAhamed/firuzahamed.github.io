@@ -21,11 +21,9 @@ permalink: /
     <h2>Dr. Firuz Ahamed Nahid</h2>
     
     <div class="link-buttons">
-      <a href="https://ait.ac.th" target="_blank">🌐 AIT</a>
-      <a href="https://iubat.edu" target="_blank">🏫 IUBAT</a>
-      <a href="https://scholar.google.com" target="_blank">🔍 Google Scholar</a>
-      <a href="https://orcid.org" target="_blank">🧬 ORCID</a>
-      <a href="https://linkedin.com" target="_blank">💼 LinkedIn</a>
+      <a href="https://scholar.google.com/citations?user=uqPruO4AAAAJ&hl=en" target="_blank">🔍 Google Scholar</a>
+      <a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
+      <a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </div>
   </div>
 
