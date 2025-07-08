@@ -39,11 +39,11 @@ bodyClass: publications
 
 <p><strong>Nahid, F.A.</strong>, J. Roy, A. Barua and W. Ongsakul (2024). "PyPSA-BD: An Open-Source Model for Planning Sustainable Power Sector for Bangladesh," 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE), Pattaya City, Thailand, pp. 1-7. <a href="https://doi.org/10.1109/ICUE63019.2024.10795639" target="_blank">https://doi.org/10.1109/ICUE63019.2024.10795639</a></p>
 
-<p><strong>A. Barua</strong>, W. Ongsakul, <strong>F. A. Nahid</strong> and J. Roy (2024). "Comparative Analysis of Energy System Modeling Approaches for Decarbonizing the Electricity Sector," 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE), Pattaya City, Thailand, pp. 1-7. <a href="https://doi.org/10.1109/ICUE63019.2024.10795621" target="_blank">https://doi.org/10.1109/ICUE63019.2024.10795621</a></p>
+<p><strong>A. Barua, W. Ongsakul, <strong>F. A. Nahid</strong> and J. Roy (2024). "Comparative Analysis of Energy System Modeling Approaches for Decarbonizing the Electricity Sector," 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE), Pattaya City, Thailand, pp. 1-7. <a href="https://doi.org/10.1109/ICUE63019.2024.10795621" target="_blank">https://doi.org/10.1109/ICUE63019.2024.10795621</a></p>
 
 <p><strong>Nahid, F. A.</strong>, Ongsakul, W., & Manjiparambil, N. M. (2020). Very Short-Term Wind Speed Forecasting Using Convolutional Long Short-Term Memory Recurrent Neural Network. 2020 International Conference and Utility Exhibition on Energy, Environment and Climate Change (ICUE), pp. 1–8. <a href="https://doi.org/10.1109/ICUE49301.2020.9307061" target="_blank">https://doi.org/10.1109/ICUE49301.2020.9307061</a></p>
 
-<p><strong>Akter, K.</strong>, Islam, M. N., <strong>Nahid, F. A.</strong>, & Soheli, S. N. (2021). Comparative Analysis and Exploration of a High Gain Input Current Shaped AC-DC Step-Up Converter with Feedback Controller. 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), pp. 253–258. <a href="https://doi.org/10.1109/ICREST51555.2021.9331180" target="_blank">https://doi.org/10.1109/ICREST51555.2021.9331180</a></p>
+<p>Akter, K., Islam, M. N., <strong>Nahid, F. A.</strong>, & Soheli, S. N. (2021). Comparative Analysis and Exploration of a High Gain Input Current Shaped AC-DC Step-Up Converter with Feedback Controller. 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), pp. 253–258. <a href="https://doi.org/10.1109/ICREST51555.2021.9331180" target="_blank">https://doi.org/10.1109/ICREST51555.2021.9331180</a></p>
 
 <h1> Book Chapters </h1>
 
