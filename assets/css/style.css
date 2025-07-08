@@ -113,3 +113,35 @@ body {
   color: #007acc;
   text-decoration: underline;
 }
+
+/* For Publication page */
+/* Use Google Font globally */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Publications page specific style */
+body.publications {
+  font-size: 18px;
+  line-height: 1.7;
+  text-align: justify;
+  padding: 40px 60px;
+  background-color: #ffffff;
+}
+
+/* Styling for headings in publications */
+body.publications h1 {
+  font-size: 30px;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+body.publications h2 {
+  font-size: 22px;
+  color: #2c3e50;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 6px;
+  margin-top: 40px;
+}
