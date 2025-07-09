@@ -1,7 +1,7 @@
 body {
-  margin: 0.25in 2in 1in 2in; /* Sets a 1-inch margin on all sides */
-} 
-
+  margin: 0.25in 2in 1in 2in;
+  font-family: 'Roboto', sans-serif;
+}
 
 /* Main layout for homepage */
 .homepage-container {
@@ -11,6 +11,7 @@ body {
   gap: 40px;
   padding: 0 20px;
   align-items: flex-start;
+  flex-wrap: wrap; /* allow wrapping if needed */
 }
 
 /* Left section */
@@ -115,15 +116,7 @@ body {
   text-decoration: underline;
 }
 
-/* For Publication page */
-/* Use Google Font globally */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-body {
-  font-family: 'Roboto', sans-serif;
-}
-
-/* Publications page specific style */
+/* Publications page */
 body.publications {
   font-size: 18px;
   line-height: 1.25;
@@ -132,7 +125,6 @@ body.publications {
   background-color: #ffffff;
 }
 
-/* Styling for headings in publications */
 body.publications h1 {
   font-size: 25px;
   text-align: left;
@@ -145,4 +137,50 @@ body.publications h2 {
   border-bottom: 1px solid #ccc;
   padding-bottom: 6px;
   margin-top: 20px;
+}
+
+/* ====== MOBILE RESPONSIVENESS ====== */
+@media (max-width: 768px) {
+  body {
+    margin: 10px;
+  }
+
+  .homepage-container {
+    flex-direction: column;
+    gap: 20px;
+    padding: 0 10px;
+  }
+
+  .left-panel {
+    width: 100%;
+  }
+
+  .profile-pic {
+    width: 180px;
+    height: 180px;
+  }
+
+  .right-panel {
+    width: 100%;
+  }
+
+  .top-nav {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px 15px;
+  }
+
+  .top-nav ul {
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+  }
+
+  .top-nav a {
+    font-size: 18px;
+  }
+
+  body.publications {
+    padding: 20px 15px;
+  }
 }
