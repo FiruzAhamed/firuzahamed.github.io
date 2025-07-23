@@ -60,7 +60,7 @@ body {
 /* Right section */
 .right-panel {
   flex: 1;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 1.25;
   text-align: justify;
 }
