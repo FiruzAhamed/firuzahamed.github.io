@@ -54,8 +54,17 @@ permalink: /
     <ul>
         <li> Energy System Modelling  </li>
         <li> Renewable Energy Integration  </li>
-        <li> Demand Side Management  </li>
-        <li> AI Application in Power Syste,  </li>
+        <li> Power Sector Scenario Development  </li>
+        <li> Strategic Demand and Supply-side Planning   </li>
+        <li> Climate Change Mitigation in Power Sector  </li>
+        <li> AI Application in Power System  </li>
+    </ul>
+
+  <h1> Education </h1>
+      <ul>
+        <li> PhD - Energy (Sustainable Energy Transition) -  Asian Institute of Technology (AIT) - Pathum Thani, Thailand </li>
+        <li> Masters - Energy - Asian Institute of Technology (AIT) - Pathum Thani, Thailand  </li>
+        <li> Bachellors - EEE - International University of Business Agriculture and Technology (IUBAT) - Dhaka, Bangladesh  </li>
     </ul>
   </div>
 </div>
