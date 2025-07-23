@@ -52,6 +52,3 @@ bodyClass: publications
 <p><strong>Nahid, F. A.</strong>, Chowdhury, H. M., & Jahangir, M. N. Machine Learning Techniques for Demand Forecasting in the Electricity Sector. In: <em>Forecasting in Smart Grids</em>, pp. 131–172. <a href="https://doi.org/10.1002/9781394249466.ch6" target="_blank">https://doi.org/10.1002/9781394249466.ch6</a></p>
 
 <p><strong>Nahid, F. A.</strong>, Ongsakul, W., Madhu M., N., & Laopaiboon, T. (2020). Hybrid Neural Networks for Renewable Energy Forecasting: Solar and Wind Energy Forecasting Using LSTM and RNN. In Vasant, P., Weber, G., & Punurai, W. (Eds.), <em>Research Advancements in Smart Technology, Optimization, and Renewable Energy</em> (pp. 200–222). IGI Global. <a href="http://doi:10.4018/978-1-7998-3970-5.ch011" target="_blank">http://doi:10.4018/978-1-7998-3970-5.ch011</a></p>
-
-
-<h1> Working Papers </h1>
