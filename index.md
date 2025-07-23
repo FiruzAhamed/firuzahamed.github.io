@@ -35,11 +35,11 @@ permalink: /
     </div>
   
     <p>
-      Dr. Firuz Ahamed Nahid is an energy systems researcher and teacher. His research area is focused on power sector decarbonization: modeling of the electricity sector, developing national and regional-scale power sector scenarios, assessing socio-economic impacts of power sector transition, and developing open-source power sector models.
+      Dr. Firuz Ahamed Nahid is a researcher in the field of energy systems. His research area focuses on power sector decarbonization, including modeling of the electricity sector, developing national and regional-scale power sector scenarios, assessing the socio-economic impacts of power sector transition, and creating open-source power sector models. Particularly, he works on power sector decarbonization of the developing asian region. He is from Bangladesh and currently based in Thailand, where he works as a postdoctoral researcher at the SMARTS Center, Asian Institute of Technology. 
     </p>
   
    <p>
-  His work has been published in peer-reviewed high-impact journals in the energy sector, such as 
+  His research has been published in various peer-reviewed Scopus and SCI indexed journals in the energy sector, such as 
   <a href="https://www.sciencedirect.com/journal/renewable-energy-focus" target="_blank">Renewable Energy Focus</a>, 
   <a href="https://www.sciencedirect.com/journal/energy-for-sustainable-development" target="_blank">Energy for Sustainable Development</a>, 
   <a href="https://www.springer.com/journal/12667" target="_blank">Energy Systems</a>, and 
