@@ -82,7 +82,7 @@ permalink: /
         September 2023 – Present<br>
       </li>
       <li>
-        <strong>Senior Lecturer</strong>, <a href="https://eee.iubat.edu/faculty/#" target="_blank">IUBAT</a>, Dhaka, Bangladesh<br> https://eee.iubat.edu/faculty/#
+        <strong>Senior Lecturer</strong>, <a href="https://eee.iubat.edu/faculty/#" target="_blank">IUBAT</a>, Dhaka, Bangladesh<br>
         May 2019 – December 2019
       </li>
       <li>
