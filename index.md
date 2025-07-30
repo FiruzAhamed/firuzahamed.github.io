@@ -71,15 +71,15 @@ permalink: /
       <li>
         <strong>Postdoctoral Researcher</strong>, 
         <a href="https://smartscenter.ait.ac.th/smarts-people" target="_blank">SMARTS Center</a>, AIT, Thailand <br>
-        <em>September 2023 – Present</em><br>
+        September 2023 – Present<br>
       </li>
       <li>
         <strong>Senior Lecturer</strong>, IUBAT, Dhaka, Bangladesh<br>
-        <em>May 2019 – December 2019</em>
+        May 2019 – December 2019
       </li>
       <li>
         <strong>Lecturer</strong>, IUBAT, Dhaka, Bangladesh<br>
-        <em>May 2016 – August 2017</em><br>
+        May 2016 – August 2017</em>
       </li>
     </ul>
 
