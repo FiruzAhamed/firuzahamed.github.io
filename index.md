@@ -24,7 +24,6 @@ permalink: /
     <a href="https://ait.ac.th/" target="_blank"> Asian Institute of Technology<br>
     Pathum Thani 12120, Thailand
     </p>
-    
     <div class="link-buttons">
       <a href="https://scholar.google.com/citations?user=uqPruO4AAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i> Google Scholar</a>
       <a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
@@ -38,7 +37,6 @@ permalink: /
       <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h1>
       <h2> May the peace, mercy, and blessings of Allah be with you </h2>
     </div>
-  
     <p>
       Dr. Firuz Ahamed Nahid is a researcher in the field of energy systems. His research area focuses on power sector decarbonization, including modeling of the electricity sector, developing national and regional-scale power sector scenarios, assessing the socio-economic impacts of power sector transition, and creating open-source power sector models. Particularly, he works on power sector decarbonization of the developing asian region. He is from Bangladesh and currently based in Thailand, where he works as a postdoctoral researcher at the SMARTS Center, Asian Institute of Technology. 
     </p>
@@ -106,9 +104,7 @@ permalink: /
     <li>
     <strong>Intern (Electrical)</strong>, National Tubes Ltd., Bangladesh <br>
     <em>May 2015 – August 2015</em><br>
-    • Worked on maintenance of electrical machines and production lines.
-    </li>
   </ul>
   
   </div>
-</div>
+  </div>
