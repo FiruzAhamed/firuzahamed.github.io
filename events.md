@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Dr. Nahid
-permalink: /
+title: Events
+permalink: /events/
+bodyClass: publications
 ---
 
 <!-- TOP NAVIGATION -->
