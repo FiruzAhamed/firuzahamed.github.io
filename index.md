@@ -71,9 +71,9 @@ permalink: /
         <li> Masters - Energy - Asian Institute of Technology (AIT) - Pathum Thani, Thailand  </li>
         <li> Bachellors - EEE - International University of Business Agriculture and Technology (IUBAT) - Dhaka, Bangladesh  </li>
     </ul>
-<h1> Employments </h1>
-<ul>
-  <li>
+  <h1> Employments </h1>
+  <ul>
+    <li>
     <strong>Postdoctoral Researcher</strong>, 
     <a href="https://smartscenter.ait.ac.th/smarts-people" target="_blank">SMARTS Center</a>, 
     Asian Institute of Technology, Thailand <br>
@@ -81,35 +81,34 @@ permalink: /
     • Developing zero-carbon energy sector pathways for South Asian regions using advanced models (PyPSA, Switch, Energy RT, SPINE).<br>
     • Designing low-energy, high-wellbeing scenarios and promoting sustainable development strategies.<br>
     • Managing projects, engaging stakeholders, and supporting multidisciplinary collaborations.
-  </li>
-  <li>
+    </li>
+    <li>
     <strong>Research Assistant</strong>, SMARTS Center, Asian Institute of Technology, Thailand <br>
     <em>March 2023 – August 2023</em><br>
     • Contributed to zero-carbon pathway modeling and attended international training on power system modeling.<br>
     • Applied Python and R-based modeling frameworks like PyPSA and Switch for scenario development.
-  </li>
-  <li>
+    </li>
+    <li>
     <strong>Intern (Renewable Energy)</strong>, Tractebel Engie, Thailand <br>
     <em>December 2022 – February 2023</em><br>
     • Conducted technical due diligence for solar/wind projects and reviewed carbon neutrality policies.<br>
     • Coordinated EPC contracts and renewable energy initiatives.
-  </li>
-  <li>
+    </li>
+    <li>
     <strong>Senior Lecturer</strong>, International University of Business Agriculture and Technology (IUBAT), Bangladesh <br>
     <em>May 2019 – December 2019</em>
-  </li>
-  <li>
+    </li>
+    <li>
     <strong>Lecturer</strong>, International University of Business Agriculture and Technology (IUBAT), Bangladesh <br>
     <em>May 2016 – August 2017</em><br>
     • Delivered undergraduate lectures, supervised theses, and led academic seminars and administration.
-  </li>
-  <li>
+    </li>
+    <li>
     <strong>Intern (Electrical)</strong>, National Tubes Ltd., Bangladesh <br>
     <em>May 2015 – August 2015</em><br>
     • Worked on maintenance of electrical machines and production lines.
-  </li>
-</ul>
-
+    </li>
+  </ul>
   
   </div>
 </div>
