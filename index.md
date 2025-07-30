@@ -69,20 +69,20 @@ permalink: /
 
       <h2>Education</h2>
     <ul>
-      <li>PhD – Energy (Sustainable Energy Transition) – Asian Institute of Technology (AIT), Pathum Thani, Thailand</li>
-      <li>Masters – Energy – Asian Institute of Technology (AIT), Pathum Thani, Thailand</li>
-      <li>Bachelor – EEE – International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh</li>
+      <li><strong>PhD</strong> – Energy (Sustainable Energy Transition) – Asian Institute of Technology (AIT), Pathum Thani 12120, Thailand</li>
+      <li><strong>Masters</strong> – Energy (Electric Power System Management) – Asian Institute of Technology (AIT), Pathum Thani 12120, Thailand</li>
+      <li><strong>Bachelor</strong> – EEE – International University of Business Agriculture and Technology (IUBAT), Dhaka 1230, Bangladesh</li>
     </ul>
 
       <h2>Key Employments</h2>
     <ul>
       <li>
         <strong>Postdoctoral Researcher</strong>, 
-        <a href="https://smartscenter.ait.ac.th/smarts-people" target="_blank">SMARTS Center</a>, AIT, Thailand <br>
+        <a href="https://smartscenter.ait.ac.th/smarts-people" target="_blank">SMARTS Center</a>, Asian Institute of Technology (AIT), Thailand <br>
         September 2023 – Present<br>
       </li>
       <li>
-        <strong>Senior Lecturer</strong>, IUBAT, Dhaka, Bangladesh<br>
+        <strong>Senior Lecturer</strong>, <a href="https://eee.iubat.edu/faculty/#" target="_blank">IUBAT</a>, Dhaka, Bangladesh<br> https://eee.iubat.edu/faculty/#
         May 2019 – December 2019
       </li>
       <li>
