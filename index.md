@@ -32,13 +32,19 @@ permalink: /
   </div>
   <!-- RIGHT SECTION: BIO + CONTENT -->
   <div class="right-panel">
+    
     <div class="intro-heading">
+    
       <h1>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h1>
+      
       <h2>May the peace, mercy, and blessings of Allah be with you</h2>
+      
     </div>
+    
     <p>
       Dr. Firuz Ahamed Nahid is a researcher in the field of energy systems. His research area focuses on power sector decarbonization, including modeling of the electricity sector, developing national and regional-scale power sector scenarios, assessing the socio-economic impacts of power sector transition, and creating open-source power sector models. Particularly, he works on power sector decarbonization of the developing Asian region. He is from Bangladesh and currently based in Thailand, where he works as a postdoctoral researcher at the SMARTS Center, Asian Institute of Technology.
     </p>
+    
     <p>
       His research has been published in various peer-reviewed Scopus and SCI indexed journals in the energy sector, such as 
       <a href="https://www.sciencedirect.com/journal/renewable-energy-focus" target="_blank">Renewable Energy Focus</a>, 
@@ -49,7 +55,9 @@ permalink: /
       <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE conferences</a>. 
       He regularly participates in international workshops and conferences.
     </p>
-    <h1>Research Interest</h1>
+    
+    <h2>Research Interest</h2>
+    
     <ul>
       <li>Energy System Modelling</li>
       <li>Renewable Energy Integration</li>
@@ -59,14 +67,14 @@ permalink: /
       <li>AI Application in Power System</li>
     </ul>
 
-      <h1>Education</h1>
+      <h2>Education</h2>
     <ul>
       <li>PhD – Energy (Sustainable Energy Transition) – Asian Institute of Technology (AIT), Pathum Thani, Thailand</li>
       <li>Masters – Energy – Asian Institute of Technology (AIT), Pathum Thani, Thailand</li>
       <li>Bachelor – EEE – International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh</li>
     </ul>
 
-      <h1>Key Employments</h1>
+      <h2>Key Employments</h2>
     <ul>
       <li>
         <strong>Postdoctoral Researcher</strong>, 
@@ -79,7 +87,7 @@ permalink: /
       </li>
       <li>
         <strong>Lecturer</strong>, IUBAT, Dhaka, Bangladesh<br>
-        May 2016 – August 2017</em>
+        May 2016 – August 2017
       </li>
     </ul>
 
