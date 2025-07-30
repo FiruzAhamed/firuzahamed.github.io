@@ -14,39 +14,31 @@ permalink: /
 
 <!-- TWO COLUMN CONTAINER -->
 <div class="homepage-container">
-
   <!-- LEFT SECTION: PHOTO + BUTTONS -->
   <div class="left-panel">
     <img src="/image/Untitled design.png" alt="Dr. Nahid" class="profile-pic">
-    
     <h2>Dr. Firuz Ahamed Nahid</h2>
-    
     <p>
       Postdoctoral Researcher <br>
       <a href="https://smartscenter.ait.ac.th/smarts-people" target="_blank">SMARTS Center</a><br>
       <a href="https://ait.ac.th/" target="_blank">Asian Institute of Technology</a><br>
       Pathum Thani 12120, Thailand
     </p>
-
     <div class="link-buttons">
       <a href="https://scholar.google.com/citations?user=uqPruO4AAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i> Google Scholar</a>
       <a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
       <a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </div>
   </div>
-
   <!-- RIGHT SECTION: BIO + CONTENT -->
   <div class="right-panel">
-
     <div class="intro-heading">
       <h1>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h1>
       <h2>May the peace, mercy, and blessings of Allah be with you</h2>
     </div>
-
     <p>
       Dr. Firuz Ahamed Nahid is a researcher in the field of energy systems. His research area focuses on power sector decarbonization, including modeling of the electricity sector, developing national and regional-scale power sector scenarios, assessing the socio-economic impacts of power sector transition, and creating open-source power sector models. Particularly, he works on power sector decarbonization of the developing Asian region. He is from Bangladesh and currently based in Thailand, where he works as a postdoctoral researcher at the SMARTS Center, Asian Institute of Technology.
     </p>
-
     <p>
       His research has been published in various peer-reviewed Scopus and SCI indexed journals in the energy sector, such as 
       <a href="https://www.sciencedirect.com/journal/renewable-energy-focus" target="_blank">Renewable Energy Focus</a>, 
@@ -57,7 +49,6 @@ permalink: /
       <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE conferences</a>. 
       He regularly participates in international workshops and conferences.
     </p>
-
     <h1>Research Interest</h1>
     <ul>
       <li>Energy System Modelling</li>
@@ -68,34 +59,19 @@ permalink: /
       <li>AI Application in Power System</li>
     </ul>
 
-    <h1>Education</h1>
+      <h1>Education</h1>
     <ul>
       <li>PhD – Energy (Sustainable Energy Transition) – Asian Institute of Technology (AIT), Pathum Thani, Thailand</li>
       <li>Masters – Energy – Asian Institute of Technology (AIT), Pathum Thani, Thailand</li>
       <li>Bachelor – EEE – International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh</li>
     </ul>
 
-    <h1>Employments</h1>
+      <h1>Key Employments</h1>
     <ul>
       <li>
         <strong>Postdoctoral Researcher</strong>, 
         <a href="https://smartscenter.ait.ac.th/smarts-people" target="_blank">SMARTS Center</a>, AIT, Thailand <br>
         <em>September 2023 – Present</em><br>
-        • Developing zero-carbon energy sector pathways using advanced models (PyPSA, Switch, Energy RT, SPINE).<br>
-        • Designing low-energy, high-wellbeing scenarios.<br>
-        • Managing projects and supporting multidisciplinary collaborations.
-      </li>
-      <li>
-        <strong>Research Assistant</strong>, SMARTS Center, AIT, Thailand<br>
-        <em>March 2023 – August 2023</em><br>
-        • Contributed to modeling zero-carbon scenarios for Southeast Asia.<br>
-        • Participated in international training and scenario development using PyPSA and Switch.
-      </li>
-      <li>
-        <strong>Intern (Renewable Energy)</strong>, Tractebel Engie, Thailand<br>
-        <em>December 2022 – February 2023</em><br>
-        • Conducted technical due diligence for solar/wind projects.<br>
-        • Coordinated EPC contracts and reviewed carbon neutrality policies.
       </li>
       <li>
         <strong>Senior Lecturer</strong>, IUBAT, Dhaka, Bangladesh<br>
@@ -104,12 +80,6 @@ permalink: /
       <li>
         <strong>Lecturer</strong>, IUBAT, Dhaka, Bangladesh<br>
         <em>May 2016 – August 2017</em><br>
-        • Delivered undergraduate courses, supervised theses, and managed academic seminars.
-      </li>
-      <li>
-        <strong>Intern (Electrical)</strong>, National Tubes Ltd., Bangladesh<br>
-        <em>May 2015 – August 2015</em><br>
-        • Supported machine maintenance and production services.
       </li>
     </ul>
 
