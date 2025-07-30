@@ -39,8 +39,9 @@ bodyClass: publications
   </p>
 
   <div style="display: flex; gap: 10px;">
-    <img src="/Image/ICUE/2.JPG" alt="ICUE Stage" style="width: 32%;">
-    <img src="/Image/ICUE/20241023_152352.jpg" alt="Poster Session" style="width: 32%;">
-    <img src="/Image/ICUE/20241023_152412.jpg" alt="Panelists" style="width: 32%;">
+    <img src="/Image/ICUE/2.JPG" alt="ICUE Stage" style="width: 200px; height: 200px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/ICUE/20241023_152352.jpg" alt="Poster Session" style="width: 200px; height: 200px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/ICUE/20241023_152412.jpg" alt="Panelists" style="width: 200px; height: 200px; object-fit: cover; border-radius: 4px;">
   </div>
 </div>
+
