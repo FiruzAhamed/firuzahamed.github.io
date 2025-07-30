@@ -32,7 +32,7 @@ permalink: /
   </div>
 
   <!-- RIGHT SECTION: BIO -->
-<div class="right-panel">
+  <div class="right-panel">
     <div class="intro-heading">
       <h1> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ </h1>
       <h2> May the peace, mercy, and blessings of Allah be with you </h2>
@@ -70,5 +70,5 @@ permalink: /
         <li> Bachellors - EEE - International University of Business Agriculture and Technology (IUBAT) - Dhaka, Bangladesh  </li>
     </ul>
   <h1> Employments </h1>
-    </div>
+  </div>
 </div>
