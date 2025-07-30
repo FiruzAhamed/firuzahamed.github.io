@@ -19,6 +19,10 @@ permalink: /
   <div class="left-panel">
     <img src="/image/Untitled design.png" alt="Dr. Nahid" class="profile-pic">
     <h2>Dr. Firuz Ahamed Nahid</h2>
+        <p>Postdoctoral Researcher, SMARTS Center<br>
+    Asian Institute of Technology<br>
+    Pathum Thani 12120, Thailand</p>
+    
 
     <div class="link-buttons">
       <a href="https://scholar.google.com/citations?user=uqPruO4AAAAJ&hl=en" target="_blank"><i class="fab fa-google"></i> Google Scholar</a>
