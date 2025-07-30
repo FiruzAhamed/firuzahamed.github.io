@@ -17,7 +17,7 @@ permalink: /
 <div class="homepage-container">
   <!-- LEFT SECTION: PHOTO + BUTTONS -->
   <div class="left-panel">
-    <img src="/image/profile/Untitled design.png" alt="Dr. Nahid" class="profile-pic">
+    <img src="/image/profile/Untitled%20design.png" alt="Dr. Nahid" class="profile-pic">
     <h2>Dr. Firuz Ahamed Nahid</h2>
     <p>
       Postdoctoral Researcher <br>
