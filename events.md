@@ -32,7 +32,7 @@ bodyClass: publications
 </div>
 
 <!-- EVENT 2-->
-<div style="border-top: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
+<div style="border-top: 1px dotted #ccc; padding: 10px 0; ">
   <h2>International Training Course on Energy Policy and Regulatory Framework – AIT, March 2025</h2>
   <p>
     Served as a <strong>resource person</strong> in the International Training Course on 
@@ -58,7 +58,7 @@ bodyClass: publications
 
 
 <!-- EVENT 3 -->
-<div style="border-top: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
+<div style="border-top: 1px dotted #ccc; padding: 10px 0;">
   <h2>ICUE 2024 – Pattaya City, Thailand</h2>
   <p>
     Delivered an oral presentation on <em>“PyPSA-BD: An Open-source Model for Planning Sustainable Power Sector for Bangladesh”</em> at the ICUE 2024 on Energy Transition and Net-Zero Climate Future. The session highlighted challenges and pathways for energy modeling in the Global South.
