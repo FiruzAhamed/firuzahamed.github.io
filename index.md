@@ -33,7 +33,17 @@ permalink: /
     <p style="margin-top: 15px; font-size: 14px;">
     To collaborate or connect professionally, please reach out to me via LinkedIn.
     </p>
+    <!-- Download CV Section -->
+    <p style="margin-top: 10px; font-size: 14px;">
+      You can download my most recent CV using the link below:
+    </p>
+    <p>
+      <a href="https://drive.google.com/uc?export=download&id=YOUR_FILE_ID" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Download-CV-blue" alt="Download CV Badge" style="vertical-align: middle;">
+    </a>
+    </p>
   </div>
+  
   <!-- RIGHT SECTION: BIO + CONTENT -->
   <div class="right-panel">
     
