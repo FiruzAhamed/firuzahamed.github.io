@@ -18,7 +18,7 @@ bodyClass: publications
 <h1>Key Events Attended & Presented</h1>
 
 <!-- EVENT 1 -->
-<div style="border-top: 2px dotted #ccc; border-bottom: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
+<div style="border-top: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
   <h2>International Energy Workshop 2025 – Nara, Japan</h2>
   <p>
     The International Energy Workshop (IEW) is one of the leading conferences for the international energy modeling research community. In a world of environmental and economic constraints, energy modeling is an increasingly important tool for addressing the complexity of energy planning and policy making. I have presented an energy system modelling research titled - <em> "PyPSA-BD For Strategic Power Sector Planning In Bangladesh With Gradual Renewable Energy Penetration, End-use Enhanced Efficiency And Demand-side Flexibility" </em>
@@ -32,7 +32,7 @@ bodyClass: publications
 </div>
 
 <!-- EVENT 2-->
-<div style="border-top: 2px dotted #ccc; border-bottom: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
+<div style="border-top: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
   <h2>International Training Course on Energy Policy and Regulatory Framework – AIT, March 2025</h2>
   <p>
     Served as a <strong>resource person</strong> in the International Training Course on 
@@ -58,7 +58,7 @@ bodyClass: publications
 
 
 <!-- EVENT 3 -->
-<div style="border-top: 2px dotted #ccc; border-bottom: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
+<div style="border-top: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
   <h2>ICUE 2024 – Pattaya City, Thailand</h2>
   <p>
     Delivered an oral presentation on <em>“PyPSA-BD: An Open-source Model for Planning Sustainable Power Sector for Bangladesh”</em> at the ICUE 2024 on Energy Transition and Net-Zero Climate Future. The session highlighted challenges and pathways for energy modeling in the Global South.
