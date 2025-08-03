@@ -67,18 +67,15 @@ bodyClass: publications
     The workshop brought together young professionals and researchers from institutions across Thailand to co-develop 
     practical climate resilience solutions for urban areas, with a particular focus on challenges facing Bangkok City. 
     As team lead, I guided the development of <strong>Eco-Cooler</strong> — a sustainable, low-cost cooling solution using 
-    nature-based designs and upcycled materials to help outdoor workers adapt to extreme heat conditions.
-  </p>
-  <p>
-    The solution was awarded <strong>first place</strong> among six teams, recognized for its innovation, scalability, 
-    and potential impact on urban climate adaptation. Our team will now move forward with refining the prototype 
-    and exploring collaboration opportunities with ADB for pilot implementation in high-heat urban zones.
+    nature-based designs and upcycled materials to help outdoor workers adapt to extreme heat conditions. The solution was awarded <strong>first place</strong> 
+    among six teams, recognized for its innovation, scalability, 
+    and potential impact on urban climate adaptation. 
   </p>
 
   <div style="display: flex; gap: 10px; width: 100%;">
-    <img src="/image/event3_photo1.jpg" alt="Team Presentation" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-    <img src="/image/event3_photo2.jpg" alt="Award Ceremony" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-    <img src="/image/event3_photo3.jpg" alt="Eco-Cooler Prototype" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/ADB/1.jpg" alt="Team Presentation" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/ADB/2.jpg" alt="Team Presentation" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/ADB/3.JPG" alt="Team Presentation" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
   </div>
 </div>
 
