@@ -21,7 +21,8 @@ bodyClass: publications
 <div style="border-top: 2px dotted #ccc; border-bottom: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
   <h2>International Energy Workshop 2025 – Nara, Japan</h2>
   <p>
-    Presented the paper <em>“PyPSA-BD for Strategic Power Sector Planning in Bangladesh”</em> at the renowned IEW 2025. Engaged in knowledge exchange with global energy modelers and policymakers focusing on decarbonization of developing countries.
+    The International Energy Workshop (IEW) is one of the leading conferences for the international energy modeling research community. In a world of environmental and economic constraints, energy modeling is an increasingly important tool for addressing the complexity of energy planning and policy making. I have presented an energy system modelling research titled - <em> PyPSA-BD For Strategic Power Sector Planning In
+Bangladesh With Gradual Renewable Energy Penetration, End-use Enhanced Efficiency And Demand-side Flexibility </em>
   </p>
 
   <div style="display: flex; gap: 10px;">
