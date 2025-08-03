@@ -71,17 +71,5 @@ bodyClass: publications
   </div>
 </div>
 
-<!-- EVENT 3 -->
-<div style="border-top: 2px dotted #ccc; border-bottom: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
-  <h2>ICUE 2024 – Pattaya City, Thailand</h2>
-  <p>
-    Delivered an oral presentation on <em>“PyPSA-BD: An Open-source Model for Planning Sustainable Power Sector for Bangladesh”</em> at the ICUE 2024 on Energy Transition and Net-Zero Climate Future. The session highlighted challenges and pathways for energy modeling in the Global South.
-  </p>
 
-  <div style="display: flex; gap: 10px;">
-    <img src="/Image/ICUE/2.JPG" alt="ICUE Stage" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-    <img src="/Image/ICUE/20241023_152352.jpg" alt="Poster Session" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-    <img src="/Image/ICUE/20241023_152412.jpg" alt="Panelists" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-  </div>
-</div>
 
