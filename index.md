@@ -30,9 +30,7 @@ permalink: /
       <a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
       <a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </div>
-    <p style="margin-top: 15px; font-size: 14px;">
-    To collaborate or connect professionally, please reach out to me via LinkedIn.
-    </p>
+    
     <!-- Download CV Section -->
     <p style="margin-top: 10px; font-size: 14px;">
       You can download my most recent CV using the link below:
@@ -102,7 +100,6 @@ permalink: /
         May 2016 – August 2017
       </li>
     </ul>
-
   </div> <!-- End of right-panel -->
 
 </div> <!-- End of homepage-container -->
