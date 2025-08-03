@@ -56,8 +56,34 @@ bodyClass: publications
   
 </div>
 
+<!-- EVENT 3-->
+<div style="border-top: 2px dotted #ccc; padding: 10px 0;">
+  <h2>ADB Youth Capacity Workshop – Bangkok, February 2025</h2>
+  <p>
+    Led the <strong>winner team</strong> at the <em>ADB Youth Capacity Workshop on Developing Youth Solutions for Urban Climate Resilience</em>, held on 
+    <strong>27–28 February 2025</strong> at the Asian Development Bank (ADB) Thailand Resident Mission in Bangkok.
+  </p>
+  <p>
+    The workshop brought together young professionals and researchers from institutions across Thailand to co-develop 
+    practical climate resilience solutions for urban areas, with a particular focus on challenges facing Bangkok City. 
+    As team lead, I guided the development of <strong>Eco-Cooler</strong> — a sustainable, low-cost cooling solution using 
+    nature-based designs and upcycled materials to help outdoor workers adapt to extreme heat conditions.
+  </p>
+  <p>
+    The solution was awarded <strong>first place</strong> among six teams, recognized for its innovation, scalability, 
+    and potential impact on urban climate adaptation. Our team will now move forward with refining the prototype 
+    and exploring collaboration opportunities with ADB for pilot implementation in high-heat urban zones.
+  </p>
 
-<!-- EVENT 3 -->
+  <div style="display: flex; gap: 10px; width: 100%;">
+    <img src="/image/event3_photo1.jpg" alt="Team Presentation" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/image/event3_photo2.jpg" alt="Award Ceremony" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/image/event3_photo3.jpg" alt="Eco-Cooler Prototype" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+  </div>
+</div>
+
+
+<!-- EVENT 4 -->
 <div style="border-top: 1px dotted #ccc; padding: 10px 0;">
   <h2>ICUE 2024 – Pattaya City, Thailand</h2>
   <p>
