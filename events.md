@@ -35,7 +35,7 @@ bodyClass: publications
 <div style="border-top: 2px dotted #ccc; border-bottom: 2px dotted #ccc; padding: 20px 0; margin-bottom: 30px;">
   <h2>ICUE 2024 – Pattaya City, Thailand</h2>
   <p>
-    Delivered an oral presentation on <em>“Open-source Modeling for Bangladesh’s Energy Transition”</em> at the International Conference on Sustainable Energy. The session highlighted challenges and pathways for energy modeling in the Global South.
+    Delivered an oral presentation on <em>“PyPSA-BD: An Open-source Model for Planning Sustainable Power Sector for Bangladesh”</em> at the ICUE 2024 on Energy Transition and Net-Zero Climate Future. The session highlighted challenges and pathways for energy modeling in the Global South.
   </p>
 
   <div style="display: flex; gap: 10px;">
