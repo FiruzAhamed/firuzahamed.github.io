@@ -30,6 +30,9 @@ permalink: /
       <a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
       <a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </div>
+    <p style="margin-top: 15px; font-size: 14px;">
+    To collaborate or connect professionally, please reach out to me via LinkedIn.
+    </p>
   </div>
   <!-- RIGHT SECTION: BIO + CONTENT -->
   <div class="right-panel">
