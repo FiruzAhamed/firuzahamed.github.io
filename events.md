@@ -49,9 +49,9 @@ bodyClass: publications
   </p>
 
   <div style="display: flex; gap: 10px;">
-    <img src="/Image/ICUE/2.JPG" alt="ICUE Stage" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-    <img src="/Image/ICUE/20241023_152352.jpg" alt="Poster Session" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-    <img src="/Image/ICUE/20241023_152412.jpg" alt="Panelists" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/Training/1.JPG" alt="ICUE Stage" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/Training/2.jpg" alt="Poster Session" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/Training/3.jpg" alt="Panelists" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
   </div>
   
 </div>
