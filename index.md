@@ -36,7 +36,7 @@ permalink: /
       You can download my most recent CV using the link below:
     </p>
     <p>
-      <a href="https://drive.google.com/uc?export=download&id=YOUR_FILE_ID" target="_blank" style="text-decoration: none;">
+      <a href="https://drive.google.com/file/d/1SHafJmC1WnW0kJj5dbX7qBjYYzAx5UJy/view?usp=sharing" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Download-CV-blue" alt="Download CV Badge" style="vertical-align: middle;"> </a> </p>
   </div>
   
