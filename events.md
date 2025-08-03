@@ -45,7 +45,7 @@ bodyClass: publications
   <p>
     Delivered sessions on <em>sustainable energy transitions, policy and regulatory frameworks, stakeholder engagement,</em> 
     and the <em>socio-economic aspects of energy planning</em>, supported by both global experiences and 
-    regional insights from Bangladesh and Thailand.
+    regional insights from Bangladesh and Thailand. 
   </p>
 
   <div style="display: flex; gap: 10px;">
