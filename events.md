@@ -32,7 +32,7 @@ bodyClass: publications
 </div>
 
 <!-- EVENT 2-->
-<div style="border-top: 1px dotted #ccc; padding: 10px 0; ">
+<div style="border-top: 2px dotted #ccc; padding: 10px 0; ">
   <h2>International Training Course on Energy Policy and Regulatory Framework – AIT, March 2025</h2>
   <p>
     Served as a <strong>resource person</strong> in the International Training Course on 
