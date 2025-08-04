@@ -79,9 +79,27 @@ bodyClass: publications
   </div>
 </div>
 
+<!-- EVENT 5 -->
+<!-- EVENT -->
+<div style="border-top: 2px dotted #ccc; padding: 10px 0; ">
+  <h2>EDITS 2024 Annual Meeting – IIASA, Austria</h2>
+  <p>
+    Attended the <strong>EDITS 2024 Annual Meeting</strong> at the International Institute for Applied Systems Analysis (IIASA), Austria, where global experts convened to explore critical themes such as demand-side energy solutions and strategic inputs for the upcoming <strong>IPCC AR7</strong> report.
+  </p>
+  <p>
+    The event offered a valuable platform for in-depth dialogue on global decarbonization pathways, energy demand modeling, and their multifaceted implications on climate, economic development, and human wellbeing. Engaging with this forward-thinking community was an enriching experience contributing to broader sustainability and net-zero transitions.
+  </p>
+
+  <div style="display: flex; gap: 10px; width: 100%;">
+    <img src="/image/event4_photo1.jpg" alt="EDITS Group Session" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/image/event4_photo2.jpg" alt="Panel Discussion" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/image/event4_photo3.jpg" alt="Networking Moment" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+  </div>
+</div>
+
 
 <!-- EVENT 4 -->
-<div style="border-top: 1px dotted #ccc; padding: 10px 0;">
+<div style="border-top: 2px dotted #ccc; padding: 10px 0;">
   <h2>ICUE 2024 – Pattaya City, Thailand</h2>
   <p>
     Delivered an oral presentation on <em>“PyPSA-BD: An Open-source Model for Planning Sustainable Power Sector for Bangladesh”</em> at the ICUE 2024 on Energy Transition and Net-Zero Climate Future. The session highlighted challenges and pathways for energy modeling in the Global South.
