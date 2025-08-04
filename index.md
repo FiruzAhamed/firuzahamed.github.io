@@ -30,11 +30,8 @@ permalink: /
       <a href="https://orcid.org/0000-0002-2531-7640" target="_blank"><i class="fab fa-orcid"></i> ORCID</a>
       <a href="https://www.linkedin.com/in/firuz-ahamed-nahid/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
     </div>
-    
     <!-- Download CV Section -->
-    <p style="margin-top: 10px; font-size: 14px;">
-      You can download my most recent CV using the link below:
-    </p>
+    <p style="margin-top: 15px; font-size: 20px;">
     <p>
       <a href="https://drive.google.com/file/d/1SHafJmC1WnW0kJj5dbX7qBjYYzAx5UJy/view?usp=sharing" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Download-CV-blue" alt="Download CV Badge" style="vertical-align: middle;"> </a> </p>
