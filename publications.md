@@ -18,6 +18,8 @@ bodyClass: publications
 
 <h1> Journals Articles </h1>
 
+<p><strong>Nahid, F.A.</strong>, Ongsakul, W., Singh, J.G., & Roy, J. (2025). Forecasting and Optimal Scheduling of Electric Vehicle Charging Demand: A Cluster and Decomposition-Based Optimized Hybrid Approach. <em>Arabian Journal for Science and Engineering</em>. <a href="https://doi.org/10.1007/s13369-025-10559-2" target="_blank">https://doi.org/10.1007/s13369-025-10559-2</a></p>
+
 <p><strong>Nahid, F.A.</strong>, & Roy, J. (2025). PyPSA-BD: A customized model to explore decarbonized energy transition for developing country. <em>Renewable Energy Focus</em>, 100655. <a href="https://doi.org/10.1016/j.ref.2024.100655" target="_blank">https://doi.org/10.1016/j.ref.2024.100655</a></p>
 
 <p><strong>Nahid, F.A.</strong>, Ongsakul, W., Singh, J.G. et al. (2024). Short-term customer-centric electric load forecasting for low carbon microgrids using a hybrid model. <em>Energy Systems</em>. <a href="https://doi.org/10.1007/s12667-024-00704-5" target="_blank">https://doi.org/10.1007/s12667-024-00704-5</a></p>
