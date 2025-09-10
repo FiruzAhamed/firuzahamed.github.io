@@ -54,6 +54,7 @@ permalink: /
 
       <p>
         His research has been published in various peer-reviewed Scopus and SCI indexed journals in the energy sector, such as 
+        <a href="https://www.sciencedirect.com/journal/energy-strategy-reviews" target="_blank"> Energy Strategy Reviews</a>, 
         <a href="https://www.sciencedirect.com/journal/renewable-energy-focus" target="_blank">Renewable Energy Focus</a>, 
         <a href="https://www.sciencedirect.com/journal/energy-for-sustainable-development" target="_blank">Energy for Sustainable Development</a>, 
         <a href="https://www.springer.com/journal/12667" target="_blank">Energy Systems</a>, 
