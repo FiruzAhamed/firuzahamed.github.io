@@ -17,6 +17,25 @@ bodyClass: publications
 
 <h1>Key Events Attended & Presented</h1>
 
+<!-- EVENT 2 -->
+<div style="border-top: 2px dotted #ccc; padding: 10px 0;;">
+  <h2>Energy Evaluation Asia Pacific Webinar Series #21</h2>
+  <p>
+    I was invited as a speaker in the <strong>Energy Evaluation Asia Pacific Webinar Series #21</strong> on the theme 
+    <em>"Industrial Energy Transitions in South Asia: Policies, Impacts, and Future Pathways"</em>, held on 
+    <strong>Thursday, 11 September 2025</strong>. 
+    My presentation was titled <em>"Industrial Energy Efficiency in Bangladesh: Assessing the journey and looking ahead"</em>. 
+    The webinar brought together experts to explore how industrial energy policies and efficiency measures in South Asia 
+    are shaping sustainable energy use and supporting the path toward decarbonization.
+  </p>
+
+  <div style="display: flex; gap: 10px;">
+    <img src="/Image/Webinar/1.png" alt="photo 1" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/Webinar/Picture1.png" alt="photo 2" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/Webinar/12.jpg" alt="photo 3" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+  </div>
+</div>
+
 <!-- EVENT 1 -->
 <div style="border-top: 2px dotted #ccc; padding: 10px 0;;">
   <h2>International Energy Workshop 2025 – Nara, Japan</h2>
