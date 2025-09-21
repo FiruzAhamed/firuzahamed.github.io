@@ -32,7 +32,6 @@ bodyClass: publications
   <div style="display: flex; gap: 10px;">
     <img src="/Image/Webniar/1.png" alt="photo 1" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
     <img src="/Image/Webniar/12.jpg" alt="photo 3" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
-    <img src="/Image/Webniar/Picture1.png" alt="photo 2" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
   </div>
 </div>
 
