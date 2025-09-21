@@ -17,6 +17,32 @@ bodyClass: publications
 
 <h1>Key Events Attended & Presented</h1>
 
+<!-- EVENT 3 -->
+<div style="border-top: 2px dotted #ccc; padding: 10px 0;;">
+  <h2>International Workshop on Asian Perspectives in Integrated Assessment Modeling – AIT, Thailand</h2>
+  <p>
+    I participated in the <strong>International Workshop on Asian Perspectives in Integrated Assessment Modeling</strong> 
+    held on <strong>September 18–19, 2025</strong> at the Asian Institute of Technology (AIT), Bangkok, Thailand. 
+    The workshop was jointly organized by AIT and Yonsei University, South Korea
+  </p>
+
+  <p>
+    I contributed in the workshop with two presentations:
+    <ul>
+      <li><em>“Energy Sector Modeling: A Review of Models and Low-Carbon Technologies in South and Southeast Asia”</em> </li>
+      <li><em>“Integrating Demand-side Solutions for Accelerated Decarbonization of The Power Supply System”</em> </li>
+    </ul>
+  </p>
+
+  <div style="display: flex; gap: 10px;">
+    <img src="/Image/AIT-Yonsei/1.jpg" alt="Photo1" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/AIT-Yonsei/2.jpg" alt="Photo2" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+    <img src="/Image/AIT-Yonsei/3.jpg" alt="Photo3" style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+  </div>
+</div>
+
+
+
 <!-- EVENT 2 -->
 <div style="border-top: 2px dotted #ccc; padding: 10px 0;;">
   <h2>Energy Evaluation Asia Pacific Webinar Series #21</h2>
