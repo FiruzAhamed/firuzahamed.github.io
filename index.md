@@ -49,7 +49,7 @@ permalink: /
     </div>
 
     <p>
-      Dr. Firuz Ahamed Nahid is a researcher in the field of energy systems. His research area focuses on power sector decarbonization, including modeling of the electricity sector, developing national and regional-scale power sector scenarios, assessing the socio-economic impacts of power sector transition, and creating open-source power sector models. Particularly, he works on power sector decarbonization of the developing Asian region. He is from Bangladesh and currently based in Thailand, where he works as a postdoctoral researcher at the SMARTS Center, Asian Institute of Technology.
+      Dr. Firuz Ahamed Nahid is a researcher in the field of energy systems. His research area focuses on power sector decarbonization, including modeling of the electricity sector, developing national and regional-scale power sector scenarios, integrating demand-side solutions in the power system, assessing the socio-economic impacts of power sector transition, and developing open-source power sector models. Particularly, he works on power sector decarbonization in the developing Asian region. He is from Bangladesh and currently based in Thailand, where he works as a postdoctoral researcher at the SMARTS Center, Asian Institute of Technology.
     </p>
 
       <p>
@@ -61,25 +61,26 @@ permalink: /
         <a href="https://www.springer.com/journal/202" target="_blank">Electrical Engineering</a>, and 
         <a href="https://link.springer.com/journal/13369" target="_blank">Arabian Journal for Science and Engineering</a>. 
         He also contributes and publishes in peer-reviewed 
-        <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE conferences</a>. 
-        He regularly participates in international workshops and conferences.
+        <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">conferences</a>. 
+        He regularly participates in international workshops, seminars, lectures, and conferences.
       </p>
 
     <h2>Research Interest</h2>
     <ul>
-      <li>Energy System Modelling</li>
+      <li>Energy System Modeling</li>
       <li>Renewable Energy Integration</li>
-      <li>Power Sector Scenario Development</li>
+      <li>Sustainable Energy Transition</li>
+      <li>Power Sector Decarbonization</li>
       <li>Strategic Demand and Supply-side Planning</li>
-      <li>Climate Change Mitigation in Power Sector</li>
+      <li>Socio-economic Impact of Energy Transition</li>
       <li>AI Application in Power System</li>
     </ul>
 
     <h2>Education</h2>
     <ul>
-      <li><strong>PhD</strong> – Energy (Sustainable Energy Transition) – Asian Institute of Technology (AIT), Pathum Thani 12120, Thailand</li>
-      <li><strong>Masters</strong> – Energy (Electric Power System Management) – Asian Institute of Technology (AIT), Pathum Thani 12120, Thailand</li>
-      <li><strong>Bachelor</strong> – EEE – International University of Business Agriculture and Technology (IUBAT), Dhaka 1230, Bangladesh</li>
+      <li><strong>PhD</strong> – Energy (Sustainable Energy Transition) – 2023 (August) - Asian Institute of Technology (AIT), Pathum Thani 12120, Thailand</li>
+      <li><strong>Masters</strong> – Energy (Electric Power System Management) – 2019 (May) - Asian Institute of Technology (AIT), Pathum Thani 12120, Thailand</li>
+      <li><strong>Bachelor</strong> – EEE – 2015 (August) - International University of Business Agriculture and Technology (IUBAT), Dhaka 1230, Bangladesh</li>
     </ul>
 
     <h2>Key Employments</h2>
@@ -91,7 +92,7 @@ permalink: /
       </li>
       <li>
         <strong>Senior Lecturer</strong>, 
-        <a href="https://eee.iubat.edu/faculty/#" target="_blank">IUBAT</a>, Dhaka, Bangladesh<br>
+        <a href="https://eee.iubat.edu/faculty/#" target="_blank">International University of Business Agriculture and Technology (IUBAT)</a>, Dhaka, Bangladesh<br>
         May 2019 – December 2019
       </li>
       <li>
