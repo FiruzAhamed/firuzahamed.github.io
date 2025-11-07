@@ -123,21 +123,21 @@ body {
 
 /* Publications page */
 body.publications {
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.25;
   text-align: justify;
-  padding: 100px 100px;
+  padding: 80px 130px;
   background-color: #ffffff;
 }
 
 body.publications h1 {
-  font-size: 25px;
+  font-size: 28px;
   text-align: left;
   margin-bottom: 25px;
 }
 
 body.publications h2 {
-  font-size: 20px;
+  font-size: 25px;
   color: #2c3e50;
   border-bottom: 1px solid #ccc;
   padding-bottom: 6px;
