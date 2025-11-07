@@ -17,6 +17,32 @@ bodyClass: publications
 
 <h1>Key Events Attended & Presented</h1>
 
+<!-- EVENT 4 -->
+<div style="border-top: 2px dotted #ccc; padding: 10px 0;">
+  <h2>EDITS Webinar #11 – Integrating Demand-side Solutions for Accelerated Decarbonization</h2>
+  <p>
+    I was invited as a <strong>speaker</strong> at the <strong>EDITS Webinar #11</strong> on 
+    <em>“Integrating Demand-side Solutions for Accelerated Decarbonization of the Power Supply System:
+    Insights from Bangladesh and Thailand”</em>, held on <strong>November 5, 2025</strong>.
+    The session was moderated by <strong>Jubair Sieed</strong> from RITE, Japan, and organized by 
+    the <strong>Energy Demand changes Induced by Technological and Social innovations (EDITS)</strong> project.
+  </p>
+
+  <p>
+    My presentation highlighted how integrating demand-side measures—such as energy efficiency and flexibility—
+    with supply-side planning in <strong>Bangladesh</strong> and <strong>Thailand</strong> can 
+    significantly reduce CO₂ emissions, financial requirements, and land use while improving affordability 
+    and employment potential. The talk also showcased the <strong>open-source PyPSA-BD/TH-IDS</strong> framework 
+    developed for regional capacity building and climate policy analysis.
+  </p>
+
+  <div style="display: flex; justify-content: center;">
+    <img src="/Image/EDITS-WEBNIAR/EDITS-webinar-5-11-2025.PNG" alt="EDITS Webinar Presentation" 
+         style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+  </div>
+</div>
+
+
 <!-- EVENT 3 -->
 <div style="border-top: 2px dotted #ccc; padding: 10px 0;;">
   <h2>International Workshop on Asian Perspectives in Integrated Assessment Modeling – AIT, Thailand</h2>
