@@ -123,10 +123,10 @@ body {
 
 /* Publications page */
 body.publications {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.25;
   text-align: justify;
-  padding: 70px 70px;
+  padding: 100px 100px;
   background-color: #ffffff;
 }
 
