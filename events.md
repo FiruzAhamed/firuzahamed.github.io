@@ -18,7 +18,7 @@ bodyClass: publications
 <h1>Key Events Attended & Presented</h1>
 
 <!-- EVENT 4 -->
-<div style="border-top: 2px dotted #ccc; padding: 10px 0;">
+<div style="border-top: 2px dotted #ccc; padding: 10px 0;;">
   <h2>EDITS Webinar #11 – Integrating Demand-side Solutions for Accelerated Decarbonization</h2>
   <p>
     I was invited as a <strong>speaker</strong> at the <strong>EDITS Webinar #11</strong> on 
@@ -39,7 +39,7 @@ bodyClass: publications
 
   <div style="display: flex; justify-content: center;">
     <img src="/Image/EDITS-WEBINAR/EDITS-webinar-5-11-2025.png" alt="EDITS Webinar Presentation" 
-         style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
+         style="width: 80%; max-width: 700px; height: auto; object-fit: cover; border-radius: 6px;"">
   </div>
 </div>
 
