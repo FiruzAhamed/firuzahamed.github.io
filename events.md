@@ -37,7 +37,7 @@ bodyClass: publications
   </p>
 
   <div style="display: flex; justify-content: center;">
-    <img src="/Image/EDITS-WEBNIAR/EDITS-webinar-5-11-2025.PNG" alt="EDITS Webinar Presentation" 
+    <img src="/Image/EDITS-WEBNIAR/EDITS-webinar-5-11-2025.png" alt="EDITS Webinar Presentation" 
          style="flex: 1; height: 300px; object-fit: cover; border-radius: 4px;">
   </div>
 </div>
