@@ -126,6 +126,7 @@ body.publications {
   font-size: 18px;
   line-height: 1.25;
   text-align: justify;
+  margin-top: 0.25in;
   padding: 90px 140px;
   background-color: #ffffff;
 }
@@ -142,6 +143,12 @@ body.publications h2 {
   border-bottom: 1px solid #ccc;
   padding-bottom: 6px;
   margin-top: 20px;
+}
+
+body.events {
+  margin-top: 0.25in; /* same top gap as main page */
+  padding: 40px 60px;
+  background-color: #ffffff;
 }
 
 /* ====== MOBILE RESPONSIVENESS ====== */
