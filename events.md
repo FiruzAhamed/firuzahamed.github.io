@@ -39,7 +39,7 @@ bodyClass: publications
 
   <div style="display: flex; justify-content: center;">
     <img src="/Image/EDITS-WEBINAR/EDITS-webinar-5-11-2025.png" alt="EDITS Webinar Presentation" 
-         style="width: 80%; max-width: 700px; height: auto; object-fit: cover; border-radius: 6px;"">
+         style="width: 80%; max-width: 700px; height: auto; object-fit: cover; border-radius: 6px;">
   </div>
 </div>
 
