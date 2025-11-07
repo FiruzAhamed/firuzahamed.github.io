@@ -74,10 +74,12 @@ body {
   text-align: center;
   margin-bottom: 5px;
 }
+
 .intro-heading h2 {
   text-align: center;
 }
 
+/* Navigation bar */
 .top-nav {
   background-color: #ffffff;
   border-bottom: 1px solid #ccc;
@@ -121,34 +123,41 @@ body {
   text-decoration: underline;
 }
 
-/* Publications page */
-body.publications {
+/* ====== SHARED PAGE STYLING ====== */
+body.publications,
+body.events {
   font-size: 18px;
   line-height: 1.25;
   text-align: justify;
-  margin-top: 0.25in;
-  padding: 90px 140px;
+  margin-top: 0.25in;         /* same top margin as main page */
+  padding: 80px 0 60px;       /* top padding for sticky nav gap */
   background-color: #ffffff;
+  display: flex;
+  justify-content: center;    /* centers content horizontally like main page */
 }
 
-body.publications h1 {
+.page-container {
+  max-width: 1200px;          /* matches main page readable width */
+  width: 100%;
+  padding: 0 140px;           /* same inner left-right spacing */
+  box-sizing: border-box;
+}
+
+/* Publications headings */
+body.publications h1,
+body.events h1 {
   font-size: 25px;
   text-align: left;
   margin-bottom: 25px;
 }
 
-body.publications h2 {
+body.publications h2,
+body.events h2 {
   font-size: 22px;
   color: #2c3e50;
   border-bottom: 1px solid #ccc;
   padding-bottom: 6px;
   margin-top: 20px;
-}
-
-body.events {
-  margin-top: 0.25in; /* same top gap as main page */
-  padding: 40px 60px;
-  background-color: #ffffff;
 }
 
 /* ====== MOBILE RESPONSIVENESS ====== */
@@ -192,7 +201,12 @@ body.events {
     font-size: 18px;
   }
 
-  body.publications {
-    padding: 20px 15px;
+  body.publications,
+  body.events {
+    padding: 40px 0;
+  }
+
+  .page-container {
+    padding: 0 20px;
   }
 }
