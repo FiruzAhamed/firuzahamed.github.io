@@ -1,10 +1,73 @@
+/* -----------------------------------------------------
+   GLOBAL VARIABLES FOR CONSISTENT SPACING
+----------------------------------------------------- */
+:root {
+  --page-top-gap: 0.25in;      /* Same top margin as homepage */
+  --nav-height: 60px;          /* Adjust if your nav appears taller */
+  --nav-padding-vertical: 10px;
+  --max-content-width: 1200px; /* Max width for Publications & Events */
+}
+
+
+/* -----------------------------------------------------
+   BASE BODY STYLING
+----------------------------------------------------- */
 body {
   margin: 0.25in 1in 1in 1in;
   font-family: 'Carlito', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #ffffff;
+  box-sizing: border-box;
 }
 
-/* Main layout for homepage */
+
+/* -----------------------------------------------------
+   TOP NAVIGATION (SHARED BY ALL PAGES)
+----------------------------------------------------- */
+.top-nav {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ccc;
+  padding: var(--nav-padding-vertical) 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  min-height: var(--nav-height);
+}
+
+.top-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.top-nav li {
+  display: inline-block;
+}
+
+.top-nav a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.top-nav a:hover {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+
+/* -----------------------------------------------------
+   HOMEPAGE LAYOUT
+----------------------------------------------------- */
 .homepage-container {
   display: flex;
   max-width: 1400px;
@@ -12,10 +75,9 @@ body {
   gap: 40px;
   padding: 0 20px;
   align-items: flex-start;
-  flex-wrap: wrap; /* allow wrapping if needed */
+  flex-wrap: wrap;
 }
 
-/* Left section */
 .left-panel {
   width: 300px;
   text-align: center;
@@ -35,7 +97,6 @@ body {
   margin-bottom: 20px;
 }
 
-/* Button group styling */
 .link-buttons {
   display: flex;
   flex-direction: column;
@@ -58,7 +119,6 @@ body {
   color: #007acc;
 }
 
-/* Right section */
 .right-panel {
   flex: 1;
   font-size: 18px;
@@ -70,78 +130,37 @@ body {
   padding-left: 20px;
 }
 
-.intro-heading h1 {
-  text-align: center;
-  margin-bottom: 5px;
-}
-
+.intro-heading h1,
 .intro-heading h2 {
   text-align: center;
-}
-
-/* Navigation bar */
-.top-nav {
-  background-color: #ffffff;
-  border-bottom: 1px solid #ccc;
-  padding: 10px 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-weight: bold;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  position: sticky;  /* Keeps nav stuck to top */
-  top: 0;
-  z-index: 999;
-  overflow-x: auto;  /* Allows horizontal scrolling if needed on small screens */
-  white-space: nowrap;
-}
-
-.top-nav ul {
-  list-style: none;
-  display: flex;
-  flex-wrap: nowrap;
-  gap: 20px;
   margin: 0;
-  padding: 0;
 }
 
-.top-nav li {
-  display: inline-block;
-}
 
-.top-nav a {
-  text-decoration: none;
-  color: #333;
-  font-size: 18px;
-  font-weight: bold;
-  padding: 5px 10px;
-  white-space: nowrap;
-}
-
-.top-nav a:hover {
-  color: #007acc;
-  text-decoration: underline;
-}
-
-/* ====== SHARED PAGE STYLING ====== */
+/* -----------------------------------------------------
+   SHARED PAGE STYLING (PUBLICATIONS & EVENTS)
+----------------------------------------------------- */
 body.publications,
 body.events {
-  font-size: 18px;
-  line-height: 1.25;
-  text-align: justify;
-  margin-top: 0.25in;         /* same top margin as main page */
-  padding: 80px 0 60px;       /* top padding for sticky nav gap */
   background-color: #ffffff;
 }
 
 .page-container {
-  max-width: 1200px;          /* matches main page readable width */
+  max-width: var(--max-content-width);
+  margin: 0 auto;
   width: 100%;
-  padding: 0 140px;           /* same inner left-right spacing */
+  padding: 0 140px;
+  padding-top: calc(var(--page-top-gap) + var(--nav-height));
   box-sizing: border-box;
 }
 
-/* Publications headings */
+/* Remove margin collapse issues */
+.page-container h1,
+.page-container h2 {
+  margin-top: 0;
+}
+
+/* Headings */
 body.publications h1,
 body.events h1 {
   font-size: 25px;
@@ -158,7 +177,10 @@ body.events h2 {
   margin-top: 20px;
 }
 
-/* ====== MOBILE RESPONSIVENESS ====== */
+
+/* -----------------------------------------------------
+   MOBILE RESPONSIVE
+----------------------------------------------------- */
 @media (max-width: 768px) {
   body {
     margin: 10px;
@@ -185,7 +207,6 @@ body.events h2 {
 
   .top-nav {
     flex-direction: column;
-    align-items: flex-start;
     padding: 10px 15px;
   }
 
@@ -199,12 +220,8 @@ body.events h2 {
     font-size: 18px;
   }
 
-  body.publications,
-  body.events {
-    padding: 40px 0;
-  }
-
   .page-container {
     padding: 0 20px;
+    padding-top: calc(var(--page-top-gap) + var(--nav-height));
   }
 }
