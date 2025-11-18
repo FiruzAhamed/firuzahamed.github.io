@@ -169,14 +169,19 @@ body.events .page-container {
 }
 
 /* Headings */
-body.publications h1,
+body.publications h1{
+  font-size: 25px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 25px;
+}
+
 body.events h1 {
   font-size: 25px;
   text-align: left;
   margin-bottom: 25px;
 }
 
-body.publications h2,
 body.events h2 {
   font-size: 22px;
   color: #2c3e50;
