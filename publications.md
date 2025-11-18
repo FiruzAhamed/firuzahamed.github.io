@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 bodyClass: publications
 ---
-<body class="publications">
+
   <div class="page-container">
 
   <!-- TOP NAVIGATION BAR -->
@@ -60,4 +60,3 @@ bodyClass: publications
     <p><strong>Nahid, F. A.</strong>, Ongsakul, W., Madhu M., N., & Laopaiboon, T. (2020). Hybrid Neural Networks for Renewable Energy Forecasting: Solar and Wind Energy Forecasting Using LSTM and RNN. In Vasant, P., Weber, G., & Punurai, W. (Eds.), <em>Research Advancements in Smart Technology, Optimization, and Renewable Energy</em> (pp. 200–222). IGI Global. <a href="http://doi:10.4018/978-1-7998-3970-5.ch011" target="_blank">http://doi:10.4018/978-1-7998-3970-5.ch011</a></p>
 
   </div>
-</body>
