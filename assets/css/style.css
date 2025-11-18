@@ -145,6 +145,13 @@ body.events {
   background-color: #ffffff;
 }
 
+/* Ensure Publications & Events text is justified */
+body.publications .page-container,
+body.events .page-container {
+  text-align: justify;
+  line-height: 1.4;   /* optional but recommended */
+}
+
 .page-container {
   max-width: var(--max-content-width);
   margin: 0 auto;
