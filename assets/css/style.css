@@ -149,6 +149,7 @@ body.events {
 body.publications .page-container,
 body.events .page-container {
   text-align: justify;
+   font-size: 20px;
   line-height: 1.4;   /* optional but recommended */
 }
 
