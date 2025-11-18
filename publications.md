@@ -16,7 +16,7 @@ bodyClass: publications
 
 <div class="page-container">
 
-# Journals Articles
+<h1> Journals Articles </h1>
 
 **Nahid, F.A.**, Roy, J., Ongsakul, W. (2025). National scale electricity sector model to strategize national clean energy transition. *Energy Strategy Reviews*.  
 [https://doi.org/10.1016/j.esr.2025.101868](https://doi.org/10.1016/j.esr.2025.101868)
@@ -49,7 +49,7 @@ Alam, M. J., **Nahid, F. A.**, & Islam, M. T. (2019). Design of a Broad Band–S
 https://iubat.edu/journal
 
 
-# Conference Paper
+<h1> Conference Paper </h1>
 
 **Nahid, F.A.**, J. Roy, A. Barua and W. Ongsakul (2024). *PyPSA-BD: An Open-Source Model for Planning Sustainable Power Sector for Bangladesh.* ICUE 2024, Pattaya City, Thailand, pp. 1-7.  
 [https://doi.org/10.1109/ICUE63019.2024.10795639](https://doi.org/10.1109/ICUE63019.2024.10795639)
@@ -64,7 +64,7 @@ Akter, K., Islam, M. N., **Nahid, F. A.**, & Soheli, S. N. (2021). *Comparative 
 [https://doi.org/10.1109/ICREST51555.2021.9331180](https://doi.org/10.1109/ICREST51555.2021.9331180)
 
 
-# Book Chapters
+<h1> Book Chapters </h1>
 
 **Nahid, F. A.**, Jahangir, M. N., Chowdhury, H. M., & Akter, K. *Evaluation and Performance Metrics for Forecasting Renewable Power Generation, Demand, and Electricity Price.* In: **Forecasting in Smart Grids**, pp. 173–218.  
 [https://doi.org/10.1002/9781394249466.ch7](https://doi.org/10.1002/9781394249466.ch7)
