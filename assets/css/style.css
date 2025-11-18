@@ -209,9 +209,16 @@ body.events h2 {
 
 
 /* Full-width single images */
+
+/* Full-width single images */
+.event-photo-single {
+  display: flex;
+  justify-content: center;  /* Center the image horizontally */
+  align-items: center;      /* Center the image vertically if needed */
+}
 .event-photo-single img {
   width: 50%;
-  height: 300px; /* Match height with other images */
+  height: 350px; /* Match height with other images */
   object-fit: cover;
   border-radius: 6px;
 }
