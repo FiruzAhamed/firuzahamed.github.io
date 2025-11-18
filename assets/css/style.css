@@ -176,9 +176,11 @@ body.publications h1{
   border-bottom: 1px solid #ccc;
   margin-bottom: 40px;
 }
+
 /* Add space between each paragraph and the previous h1 */
 body.publications p {
-  margin-top: 20px; /* Adjust this value for more or less space */
+  margin-top: 20px;
+   margin-bottom: 20px; /* Adjust this value for more or less space */
 }
 
 body.events h1 {
