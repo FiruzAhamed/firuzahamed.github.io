@@ -132,8 +132,6 @@ body.events {
   margin-top: 0.25in;         /* same top margin as main page */
   padding: 80px 0 60px;       /* top padding for sticky nav gap */
   background-color: #ffffff;
-  display: flex;
-  justify-content: center;    /* centers content horizontally like main page */
 }
 
 .page-container {
