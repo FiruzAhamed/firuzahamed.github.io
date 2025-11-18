@@ -16,7 +16,7 @@ bodyClass: publications
 
 <div class="page-container">
 
-<h1>Journals Articles</h1>
+<h1> <li> Journals Articles </li>  </h1>
 
 <p><strong>Nahid, F.A.</strong>, Roy, J., Ongsakul, W. (2025). National scale electricity sector model to strategize national clean energy transition. <em>Energy Strategy Reviews</em>. <a href="https://www.sciencedirect.com/science/article/pii/S2211467X25002317" target="_blank">https://doi.org/10.1016/j.esr.2025.101868</a></p>
 
@@ -39,7 +39,7 @@ bodyClass: publications
 <p>Alam, M. J., <strong>Nahid, F. A.</strong>, & Islam, M. T. (2019). Design of a Broad Band–Stop Filter with Metamaterial as Defective Ground System. <em>IUBAT Review</em>, 2(1), 41–48. <a href="https://iubat.edu/journal" target="_blank">https://iubat.edu/journal</a></p>
 
 
-<h1>Conference Papers</h1>
+<h1> <li> Conference Papers </li> </h1>
 
 <p><strong>Nahid, F.A.</strong>, J. Roy, A. Barua and W. Ongsakul (2024). "PyPSA-BD: An Open-Source Model for Planning Sustainable Power Sector for Bangladesh," 2024 International Conference on Sustainable Energy: Energy Transition and Net-Zero Climate Future (ICUE), Pattaya City, Thailand, pp. 1-7. <a href="https://doi.org/10.1109/ICUE63019.2024.10795639" target="_blank">https://doi.org/10.1109/ICUE63019.2024.10795639</a></p>
 
@@ -50,7 +50,7 @@ bodyClass: publications
 <p>Akter, K., Islam, M. N., <strong>Nahid, F. A.</strong>, & Soheli, S. N. (2021). Comparative Analysis and Exploration of a High Gain Input Current Shaped AC-DC Step-Up Converter with Feedback Controller. 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), pp. 253–258. <a href="https://doi.org/10.1109/ICREST51555.2021.9331180" target="_blank">https://doi.org/10.1109/ICREST51555.2021.9331180</a></p>
 
 
-<h1>Book Chapters</h1>
+<h1> <li> Book Chapters </li> </h1>
 
 <p><strong>Nahid, F. A.</strong>, Jahangir, M. N., Chowdhury, H. M., & Akter, K. Evaluation and Performance Metrics for Forecasting Renewable Power Generation, Demand, and Electricity Price. In: <em>Forecasting in Smart Grids</em>, pp. 173–218. <a href="https://doi.org/10.1002/9781394249466.ch7" target="_blank">https://doi.org/10.1002/9781394249466.ch7</a></p>
 
