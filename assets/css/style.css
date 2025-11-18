@@ -206,8 +206,7 @@ body.events h2 {
 /* Full-width single images */
 .event-photo-single img {
   width: 100%;
-  height: auto;
-  max-height: 650px;
+  height: 300px; /* Match height with other images */
   object-fit: cover;
   border-radius: 6px;
 }
