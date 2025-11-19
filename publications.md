@@ -59,4 +59,25 @@ bodyClass: publications
 
 <p><strong>Nahid, F. A.</strong>, Ongsakul, W., Madhu M., N., & Laopaiboon, T. (2020). Hybrid Neural Networks for Renewable Energy Forecasting: Solar and Wind Energy Forecasting Using LSTM and RNN. In Vasant, P., Weber, G., & Punurai, W. (Eds.), <em>Research Advancements in Smart Technology, Optimization, and Renewable Energy</em> (pp. 200–222). IGI Global. <a href="http://doi:10.4018/978-1-7998-3970-5.ch011" target="_blank">http://doi:10.4018/978-1-7998-3970-5.ch011</a></p>
 
+<h1> Manuscripts Submitted </h1>
+<p> <strong>Title:</strong> Integrating Demand-side Solutions for Accelerated Decarbonization of Power Supply System </p>
+<p> <span style="margin-right: 30px;"> <strong>Journal:</strong> Energy and Climate Change</span> <span><strong>Status:</strong> Under Review</span> </p>
+
+<p> <strong>Title:</strong> Past Trends, Alternative Futures, and Energy Demand Scenarios for Bangladesh </p>
+<p> <span style="margin-right: 30px;"> <strong>Journal:</strong> Sustainability Science</span> <span><strong>Status:</strong> Revised Manuscript Under Review</span> </p>
+
+<p> <strong>Title:</strong> Energy System Modeling in South and Southeast Asia: Progress, Gaps, and Opportunities </p>
+<p> <span style="margin-right: 30px;"> <strong>Journal:</strong> Energy Reports</span> <span><strong>Status:</strong> With Editor </span> </p>
+
+
+<h1> Manuscripts in Preparation </h1>
+
+<p> <strong>Title:</strong> Low-emission Power Sector for the Developing Asian Region by 2050: How low? </p>
+<p> <strong>Title:</strong> Demand side Mitigation Solutions for service provision: Broader perspective with Cross-sector linkages  </p>
+<p> <strong>Title:</strong> Future Energy Transition Mineral Demands and Constraints for South and Southeast Asia  </p>
+
+
+
+
+
 </div>
