@@ -169,7 +169,7 @@ body.publications h1 {
 body.publications h1::before {
   content: "■";               
   color:#000;
-  font-size: 40px;
+  font-size: 30px;
   margin-right: 10px;
 }
 
@@ -266,7 +266,7 @@ body.recordings p {
 body.recordings h2::before {
   content: "■";               
   color: #333;
-  font-size: 40px;
+  font-size: 30px;
   margin-right: 10px;
 }
 
