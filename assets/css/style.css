@@ -8,7 +8,6 @@
   --max-content-width: 16500px; /* Max width for Publications & Events */
 }
 
-
 /* -----------------------------------------------------
    BASE BODY STYLING
 ----------------------------------------------------- */
@@ -18,7 +17,6 @@ body {
   background-color: #ffffff;
   box-sizing: border-box;
 }
-
 
 /* -----------------------------------------------------
    TOP NAVIGATION (SHARED BY ALL PAGES)
@@ -32,7 +30,6 @@ body {
   align-items: center;
   font-weight: bold;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
   position: sticky;
   top: 0;
   z-index: 999;
@@ -63,7 +60,6 @@ body {
   color: #007acc;
   text-decoration: underline;
 }
-
 
 /* -----------------------------------------------------
    HOMEPAGE LAYOUT
@@ -136,23 +132,9 @@ body {
   margin: 0;
 }
 
-
 /* -----------------------------------------------------
-   SHARED PAGE STYLING (PUBLICATIONS & EVENTS)
+   SHARED PAGE STYLING (PUBLICATIONS, EVENTS, RECORDINGS)
 ----------------------------------------------------- */
-body.publications,
-body.events {
-  background-color: #ffffff;
-}
-
-/* Ensure Publications & Events text is justified */
-body.publications .page-container,
-body.events .page-container {
-  text-align: justify;
-   font-size: 20px;
-  line-height: 1.4;   /* optional but recommended */
-}
-
 .page-container {
   max-width: var(--max-content-width);
   margin: 0 auto;
@@ -162,14 +144,20 @@ body.events .page-container {
   box-sizing: border-box;
 }
 
-/* Remove margin collapse issues */
 .page-container h1,
 .page-container h2 {
   margin-top: 0;
 }
 
-/* Headings */
-body.publications h1{
+/* Publications Page */
+body.publications {
+  background-color: #ffffff;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+body.publications h1 {
   font-size: 25px;
   text-align: left;
   border-top: 1px solid #ccc;
@@ -179,11 +167,18 @@ body.publications h1{
   padding: 10px 0;  
 }
 
-/* Add space between each paragraph and the previous h1 */
 body.publications p {
   padding-left: 30px;
   margin-top: 20px;
-  margin-bottom: 20px; /* Adjust this value for more or less space */
+  margin-bottom: 20px;
+}
+
+/* Events Page */
+body.events {
+  background-color: #ffffff;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 1.4;
 }
 
 body.events h1 {
@@ -191,11 +186,12 @@ body.events h1 {
   text-align: left;
   margin-bottom: 25px;
 }
+
 body.events h2::before {
-  content: "■";               /* Square bullet */
-  color: #333;                /* Bullet color */
-  font-size: 40px;            /* Adjust bullet size */
-  margin-right: 10px;         /* Space between bullet and text */
+  content: "■";               
+  color: #333;
+  font-size: 40px;
+  margin-right: 10px;
 }
 
 body.events h2 {
@@ -206,9 +202,7 @@ body.events h2 {
   margin-top: 20px;
 }
 
-/* -----------------------------------------------------
-   EVENT PAGE → RESPONSIVE IMAGE GALLERY
------------------------------------------------------ */
+/* Event Photo Gallery */
 .event-photos {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -223,44 +217,116 @@ body.events h2 {
   border-radius: 4px;
 }
 
-
-/* Full-width single images */
-
-/* Full-width single images */
+/* Single Event Photo */
 .event-photo-single {
   display: flex;
-  justify-content: center;  /* Center the image horizontally */
-  align-items: center;      /* Center the image vertically if needed */
+  justify-content: center;
+  align-items: center;
 }
+
 .event-photo-single img {
   width: 50%;
-  height: 350px; /* Match height with other images */
+  height: 350px;
   object-fit: cover;
   border-radius: 6px;
+}
+
+/* -----------------------------------------------------
+   RECORDINGS PAGE
+----------------------------------------------------- */
+body.recordings {
+  background-color: #ffffff;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+body.recordings h1 {
+  font-size: 25px;
+  text-align: left;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-top: 40px; 
+  margin-bottom: 40px;
+  padding: 10px 0;  
+}
+
+body.recordings p {
+  padding-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body.recordings h2::before {
+  content: "■";               
+  color: #333;
+  font-size: 40px;
+  margin-right: 10px;
+}
+
+body.recordings h2 {
+  font-size: 22px;
+  color: #2c3e50;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 6px;
+  margin-top: 20px;
+}
+
+/* YouTube Video Grid */
+.recordings-videos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.recordings-videos iframe {
+  width: 100%;
+  height: 300px;
+  border: none;
+  border-radius: 6px;
+}
+
+/* Single Video Embed */
+.recordings-video-single {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.recordings-video-single iframe {
+  width: 50%;
+  height: 350px;
 }
 
 /* -----------------------------------------------------
    MOBILE RESPONSIVE
 ----------------------------------------------------- */
 @media (max-width: 900px) {
-  .event-photos {
+  .event-photos,
+  .recordings-videos {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (max-width: 600px) {
-  .event-photos {
-    grid-template-columns: 1fr; /* Stack images */
+  .event-photos,
+  .recordings-videos {
+    grid-template-columns: 1fr;
   }
 
-  .event-photos img {
-    height: auto; /* Let height adjust naturally */
+  .event-photos img,
+  .recordings-videos iframe {
+    height: auto;
+  }
+
+  .recordings-video-single iframe,
+  .event-photo-single img {
+    width: 100%;
+    height: auto;
   }
 
   .page-container {
     padding: 0 20px;
   }
 }
-
-
-
