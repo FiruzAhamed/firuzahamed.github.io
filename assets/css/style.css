@@ -194,7 +194,7 @@ body.events h1 {
 body.events h2::before {
   content: "■";               /* Square bullet */
   color: #333;                /* Bullet color */
-  font-size: 14px;            /* Adjust bullet size */
+  font-size: 40px;            /* Adjust bullet size */
   margin-right: 10px;         /* Space between bullet and text */
 }
 
