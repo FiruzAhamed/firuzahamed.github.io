@@ -181,8 +181,9 @@ body.publications h1{
 
 /* Add space between each paragraph and the previous h1 */
 body.publications p {
+  text-indent: 30px;
   margin-top: 20px;
-   margin-bottom: 20px; /* Adjust this value for more or less space */
+  margin-bottom: 20px; /* Adjust this value for more or less space */
 }
 
 body.events h1 {
