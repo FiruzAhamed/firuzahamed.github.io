@@ -29,7 +29,7 @@ body {
   justify-content: center;
   align-items: center;
   font-weight: bold;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Calibri,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   position: sticky;
   top: 0;
   z-index: 999;
