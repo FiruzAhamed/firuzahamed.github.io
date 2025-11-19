@@ -32,8 +32,10 @@ bodyClass: events
     <strong>Energy Demand changes Induced by Technological and Social innovations (EDITS)</strong> project.
   </p>
 
-  <div class="event-photo-single">
+  <div class="event-photos">
     <img src="/Image/EDITS-WEBINAR/EDITS-webinar-5-11-2025.png" alt="EDITS Webinar Presentation">
+    <img src="/Image/EDITS-WEBINAR/2.png" alt="EDITS Webinar Presentation">
+    <img src="/Image/EDITS-WEBINAR/3.png" alt="EDITS Webinar Presentation">
   </div>
 </div>
 
