@@ -5,7 +5,7 @@
   --page-top-gap: 0.25in;      /* Same top margin as homepage */
   --nav-height: 60px;          /* Adjust if your nav appears taller */
   --nav-padding-vertical: 10px;
-  --max-content-width: 1500px; /* Max width for Publications & Events */
+  --max-content-width: 16500px; /* Max width for Publications & Events */
 }
 
 
@@ -70,7 +70,7 @@ body {
 ----------------------------------------------------- */
 .homepage-container {
   display: flex;
-  max-width: 1400px;
+  max-width: 1500px;
   margin: 40px auto;
   gap: 40px;
   padding: 0 20px;
