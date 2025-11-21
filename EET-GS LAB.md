@@ -1,1 +1,59 @@
+---
+layout: default
+title: EET-GS Lab
+permalink: /EET-GS LAB/
+bodyClass: events
+---
+
+<!-- TOP NAVIGATION -->
+<nav class="top-nav">
+  <ul>
+    <li><a href="/">Dr. Nahid</a></li>
+    <li><a href="/publications/">Publications</a></li>
+    <li><a href="/events/">Events</a></li>
+    <li><a href="/recordings/">Recordings</a></li>
+    <li><a href="/lab/">EET-GS Lab</a></li>
+  </ul>
+</nav>
+
+<div class="page-container">
+
+<h1>EET-GS Lab<br>
+<span style="font-size:20px; font-weight:normal;">Energy Equity & Transition for the Global South</span>
+</h1>
+
+<p>
+The <strong>EET-GS Lab</strong> is a global research initiative dedicated to advancing equitable, sustainable, 
+and scientifically rigorous pathways for the <strong>energy transition across the Global South</strong>.  
+Our mission is to generate knowledge, tools, and evidence that help emerging economies transition toward 
+clean, affordable, and resilient power systems without compromising developmental priorities.
+</p>
+
+<p>
+The Lab brings together researchers, practitioners, and collaborators from Asia, Africa, and Latin America.  
+Through interdisciplinary work, we explore how equitable policies, system modeling, and low-carbon technologies 
+can shape a more just and sustainable energy future.
+</p>
+
+<h2>Research Focus Areas</h2>
+
+<ul style="padding-left:40px; font-size:19px; line-height:1.5;">
+  <li><strong>Power System Modeling</strong> – long-term scenario planning, renewable integration, system reliability.</li>
+  <li><strong>Energy Equity & Just Transition</strong> – affordability, access, fairness, and distributional impacts.</li>
+  <li><strong>Renewable Energy Integration</strong> – solar, wind, storage, and emerging grid solutions for developing economies.</li>
+  <li><strong>Demand-Side & Cross-Sector Pathways</strong> – electrification, efficiency, and behavioral transitions.</li>
+  <li><strong>Policy Analysis & Strategic Planning</strong> – evidence-based insights for national climate and energy strategies.</li>
+</ul>
+
+<h2>Learn More About the Lab</h2>
+
+<p>
+To explore our team, ongoing projects, publications, and collaboration opportunities, please visit our full lab webpage:
+</p>
+
+<p style="padding-left:40px; margin-top:25px; font-size:22px;">
+👉 <a href="/lab/" style="color:#007acc; font-weight:bold; text-decoration:none;">Visit the EET-GS Lab Website</a>
+</p>
+
+</div>
 
