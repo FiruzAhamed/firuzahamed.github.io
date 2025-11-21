@@ -18,7 +18,7 @@ bodyClass: events
 
 <div class="page-container">
 
-<h1 style="text-align:center; font-size:32px; margin-top:20px;">
+<h1 style="text-align:center; font-size:32px; margin-top:20px; border-bottom: 1px solid #ccc;">
   Energy Equity & Transition for the Global South
 </h1>
 
