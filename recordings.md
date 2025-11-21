@@ -37,7 +37,7 @@ bodyClass: recordings
 
   <!-- EVENT 2 -->
   <div class="recording-section">
-    <h2>Energy Evaluation Asia Pacific Webinar Series #21</h2>
+    <h2>Energy Evaluation Asia Pacific (EEAP) Webinar Series #21</h2>
 
     <p>
     I was invited as a speaker in the <strong>Energy Evaluation Asia Pacific Webinar Series #21</strong>,
