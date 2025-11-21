@@ -34,17 +34,10 @@ bodyClass: events
   A core focus of the Lab is ensuring that energy transitions are <strong>fair and just</strong>. 
   We examine how shifts in the power sector affect different social groups, identifying who benefits, who may be left behind, 
   and what policies are needed to safeguard vulnerable communities. 
-  Our work integrates perspectives on <strong><a href="https://www.aceee.org/topic/energy-equity" target="_blank">energy equity</a></strong>, 
-  <strong><a href="https://www.sciencedirect.com/topics/social-sciences/distributive-justice" target="_blank">distributional justice</a></strong>, 
-  and <strong>socio-economic impacts</strong>, ensuring that decarbonization strategies enhance livelihoods, 
-  improve access, and contribute to <strong>inclusive development</strong> across the Global South.
+  Our work integrates perspectives on energy equity, distributional justice 
+  and socio-economic impacts, ensuring that decarbonization strategies enhance livelihoods, 
+  improve access, and contribute to inclusive development across the Global South.
 </p>
-
-<p>
-  Additionally, we explore how resilient power systems—systems that remain robust even under stress—can support a just transition.  
-  Our resilience research considers technical, economic, and social dimensions, aligning with best practices such as those described in the <a href="https://cse.cigre.org/cse-n030/power-system-resilience-definition-features-and-properties.html" target="_blank">CIGRÉ-CSE resilience framework</a>.
-</p>
-
 
 <p>
 The Lab brings together researchers, practitioners, and collaborators across the globe.  
