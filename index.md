@@ -11,6 +11,7 @@ permalink: /
     <li><a href="/publications/">Publications</a></li>
     <li><a href="/events/">Events</a></li>
     <li><a href="/recordings/">Recordings</a></li>
+    <li><a href="/lab/">EET-GS Lab</a></li>
   </ul>
 </nav>
 
