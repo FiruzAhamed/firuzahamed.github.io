@@ -18,20 +18,20 @@ bodyClass: events
 
 <div class="page-container">
 
-<h1 style="text-align:center; font-size:32px; margin-top:20px; border-bottom: 3px solid #ccc;">
-  Energy Equity & Transition for the Global South
+<h1 style="text-align:center; font-size:32px; margin-top:20px; border-bottom: 4px solid #ccc;">
+  Energy Equity And Transition For The Global South (EET - GS LAB)
 </h1>
 
 
 <p>
 The <strong>EET-GS Lab</strong> is a global research initiative dedicated to advancing equitable, sustainable, 
 and scientifically rigorous pathways for the <strong>energy transition across the Global South</strong>.  
-Our mission is to generate knowledge, tools, and evidence that help emerging economies transition toward 
+Our mission is to generate knowledge, tools, and evidence that help emerging economies in the Global South transition toward   
 clean, affordable, and resilient power systems without compromising developmental priorities.
 </p>
 
 <p>
-The Lab brings together researchers, practitioners, and collaborators from Asia, Africa, and Latin America.  
+The Lab brings together researchers, practitioners, and collaborators across the globe.  
 Through interdisciplinary work, we explore how equitable policies, system modeling, and low-carbon technologies 
 can shape a more just and sustainable energy future.
 </p>
