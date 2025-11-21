@@ -37,19 +37,14 @@ bodyClass: recordings
 
   <!-- EVENT 2 -->
   <div class="recording-section">
-    <h2>International Workshop on Asian Perspectives in Integrated Assessment Modeling – AIT, Thailand</h2>
+    <h2>Energy Evaluation Asia Pacific Webinar Series #21</h2>
 
     <p>
-      I participated in the <strong>International Workshop on Asian Perspectives in Integrated Assessment Modeling</strong>,
-      held on <strong>September 18–19, 2025</strong> at AIT, Bangkok. The two-day workshop was jointly organized by 
-      AIT and Yonsei University, South Korea.
+    I was invited as a speaker in the <strong>Energy Evaluation Asia Pacific Webinar Series #21</strong>,
+    themed <em>"Industrial Energy Transitions in South Asia: Policies, Impacts, and Future Pathways"</em>,
+    held on <strong>11 September 2025</strong>. My talk was titled 
+    <em>"Industrial Energy Efficiency in Bangladesh: Assessing the Journey and Looking Ahead"</em>.
     </p>
-
-    <p>I contributed two presentations during the workshop:</p>
-    <ul>
-      <li><em>“Energy Sector Modeling: A Review of Models and Low-Carbon Technologies in South and Southeast Asia”</em></li>
-      <li><em>“Integrating Demand-side Solutions for Accelerated Decarbonization of The Power Supply System”</em></li>
-    </ul>
 
     <div class="recordings-video-single">
       <iframe src="https://www.youtube.com/embed/oEGxZio25mk" title="AIT Workshop Recording" allowfullscreen></iframe>
