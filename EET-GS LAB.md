@@ -18,9 +18,10 @@ bodyClass: events
 
 <div class="page-container">
 
-<h1>EET-GS Lab<br>
-<span style="font-size:20px; font-weight:normal;">Energy Equity & Transition for the Global South</span>
+<h1 style="text-align:center; font-size:32px; margin-top:20px;">
+  Energy Equity & Transition for the Global South
 </h1>
+
 
 <p>
 The <strong>EET-GS Lab</strong> is a global research initiative dedicated to advancing equitable, sustainable, 
