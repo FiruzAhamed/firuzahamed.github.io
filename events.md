@@ -89,10 +89,10 @@ bodyClass: events
   <h2>International Energy Workshop 2025 – Nara, Japan</h2>
 
   <p>
-    The International Energy Workshop (IEW) is a major global forum for energy modeling experts.
+    The International Energy Workshop (IEW) 2025 held on <strong>10-13 June 2025</strong> in Nara, Japan, is a major global forum for energy modeling experts.
     I presented my research titled:
     <em>“PyPSA-BD For Strategic Power Sector Planning In Bangladesh With Gradual Renewable Energy Penetration,
-    End-use Enhanced Efficiency And Demand-side Flexibility”</em>.
+    End-use Enhanced Efficiency And Demand-side Flexibility”</em>. The presentation outlined Bangladesh’s current power sector status—where low-carbon electricity remains only 2% of total generation—and introduced an open-source national energy model built using detailed geographic, infrastructural, climatic, and policy datasets. I discussed how multiple supply- and demand-side scenarios—including High RE, Moderate RE, Low RE, Efficient Low Demand, and Demand-side Flexibility pathways—shape long-term investment needs, land requirements, system costs, and emissions trajectories. Preliminary results show that combining efficiency improvements and demand-side flexibility with renewable expansion reduces overreliance on large-scale RE deployment, lowers financial and land burdens, increases employment potential, and enables Bangladesh to progress more efficiently toward a carbon-neutral power system.
   </p>
 
   <div class="event-photos">
@@ -179,9 +179,7 @@ bodyClass: events
   <h2>ICUE 2024 – Pattaya City, Thailand</h2>
 
   <p>
-    Delivered an oral presentation on 
-    <em>“PyPSA-BD: An Open-source Model for Planning Sustainable Power Sector for Bangladesh”</em>
-    at the ICUE 2024 conference on Energy Transition and Net-Zero Climate Future.
+  I delivered an oral presentation on <em>“PyPSA-BD: An Open-source Model for Planning Sustainable Power Sector for Bangladesh”</em> at the International Conference on Sustainable Energy (ICUE 2024) on the theme <strong>“Energy Transition and Net-Zero Climate Future”</strong>, held from <strong>21–23 October 2024</strong> in <strong>Pattaya City, Thailand</strong>. The presentation highlighted the motivation for developing an open and transparent modelling platform to support Bangladesh’s clean energy transition, integrating national policy targets such as the NDC and IEPMP into structured scenarios. Key results demonstrated how PyPSA-BD uses granular local datasets to optimize investments in solar, wind, storage, and transmission, assesses pathways for higher renewable penetration toward 2030 and 2041, and shows how Bangladesh can feasibly reach a near-zero-carbon power system by 2050 through large-scale renewable expansion supported by emerging storage technologies, including batteries and hydrogen-based systems.
   </p>
 
   <div class="event-photos">
