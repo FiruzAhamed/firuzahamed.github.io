@@ -1,0 +1,338 @@
+/* -----------------------------------------------------
+   GLOBAL VARIABLES FOR CONSISTENT SPACING
+----------------------------------------------------- */
+:root {
+  --page-top-gap: 0.25in;      /* Same top margin as homepage */
+  --nav-height: 60px;          /* Adjust if your nav appears taller */
+  --nav-padding-vertical: 10px;
+  --max-content-width: 16500px; /* Max width for Publications & Events */
+}
+
+/* -----------------------------------------------------
+   BASE BODY STYLING
+----------------------------------------------------- */
+body {
+  margin: 0.25in 1in 1in 1in;
+  font-family: Calibri, sans-serif, 'Carlito', 'Trebuchet MS' ;
+  background-color: #ffffff;
+  box-sizing: border-box;
+}
+
+/* -----------------------------------------------------
+   TOP NAVIGATION (SHARED BY ALL PAGES)
+----------------------------------------------------- */
+.top-nav {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ccc;
+  padding: var(--nav-padding-vertical) 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-family: Calibri,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  min-height: var(--nav-height);
+}
+
+.top-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.top-nav li {
+  display: inline-block;
+}
+
+.top-nav a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+.top-nav a:hover {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+/* -----------------------------------------------------
+   HOMEPAGE LAYOUT
+----------------------------------------------------- */
+.homepage-container {
+  display: flex;
+  max-width: 1500px;
+  margin: 40px auto;
+  gap: 40px;
+  padding: 0 20px;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.left-panel {
+  width: 300px;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+  border: 2px solid #ccc;
+}
+
+.left-panel h2 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.link-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.link-buttons a {
+  text-decoration: none;
+  padding: 8px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  background-color: #f8f9fa;
+  font-weight: 500;
+  color: #333;
+  transition: background 0.3s;
+}
+
+.link-buttons a:hover {
+  background-color: #e0f0ff;
+  color: #007acc;
+}
+
+.right-panel {
+  flex: 1;
+  font-size: 18px;
+  line-height: 1.25;
+  text-align: justify;
+}
+
+.right-panel ul {
+  padding-left: 20px;
+}
+
+.intro-heading h1,
+.intro-heading h2 {
+  text-align: center;
+  margin: 0;
+}
+
+/* -----------------------------------------------------
+   SHARED PAGE STYLING (PUBLICATIONS, EVENTS, RECORDINGS)
+----------------------------------------------------- */
+.page-container {
+  max-width: var(--max-content-width);
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 20px;
+  padding-top: calc(var(--page-top-gap));
+  box-sizing: border-box;
+}
+
+.page-container h1,
+.page-container h2 {
+  margin-top: 0;
+}
+
+/* Publications Page */
+body.publications {
+  background-color: #ffffff;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+body.publications h1 {
+  font-size: 25px;
+  text-align: left;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-top: 40px; 
+  margin-bottom: 40px;
+  padding: 10px 0;  
+}
+body.publications h1::before {
+  content: "■";               
+  color:#000;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+body.publications p {
+  padding-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* Events Page */
+body.events {
+  background-color: #ffffff;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+body.events h1 {
+  font-size: 35px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+body.events h2::before {
+  content: "■";               
+  color: #333;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+body.events h2 {
+  font-size: 22px;
+  color: #2c3e50;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 6px;
+  margin-top: 20px;
+}
+
+/* Event Photo Gallery */
+.event-photos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+  margin: 10px 0;
+}
+
+.event-photos img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+/* Single Event Photo */
+.event-photo-single {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.event-photo-single img {
+  width: 50%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* -----------------------------------------------------
+   RECORDINGS PAGE
+----------------------------------------------------- */
+body.recordings {
+  background-color: #ffffff;
+  text-align: justify;
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+body.recordings h1 {
+  font-size: 25px;
+  text-align: left;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin-top: 40px; 
+  margin-bottom: 40px;
+  padding: 10px 0;  
+}
+
+body.recordings p {
+  padding-left: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body.recordings h2::before {
+  content: "■";               
+  color: #333;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+body.recordings h2 {
+  font-size: 22px;
+  color: #2c3e50;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 6px;
+  margin-top: 20px;
+}
+
+/* YouTube Video Grid */
+.recordings-videos {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin: 20px 0;
+}
+
+.recordings-videos iframe {
+  width: 100%;
+  height: 300px;
+  border: none;
+  border-radius: 6px;
+}
+
+/* Single Video Embed */
+.recordings-video-single {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.recordings-video-single iframe {
+  width: 50%;
+  height: 350px;
+}
+
+/* -----------------------------------------------------
+   MOBILE RESPONSIVE
+----------------------------------------------------- */
+@media (max-width: 900px) {
+  .event-photos,
+  .recordings-videos {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .event-photos,
+  .recordings-videos {
+    grid-template-columns: 1fr;
+  }
+
+  .event-photos img,
+  .recordings-videos iframe {
+    height: auto;
+  }
+
+  .recordings-video-single iframe,
+  .event-photo-single img {
+    width: 100%;
+    height: auto;
+  }
+
+  .page-container {
+    padding: 0 20px;
+  }
+}
